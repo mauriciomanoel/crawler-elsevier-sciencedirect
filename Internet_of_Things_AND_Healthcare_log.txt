@@ -1,0 +1,182 @@
+Page: 200
+Modelling IoT behaviour within BPMN Business Processes
+Download bibtex file OK.
+Page: 100
+A comprehensive health assessment framework to facilitate IoT-assisted smart workouts: A predictive healthcare perspective
+Download bibtex file OK.
+
+Efficient and robust attribute-based encryption supporting access policy hiding in Internet of Things
+Download bibtex file OK.
+
+The Internet of Things (IoT) and its impact on individual privacy: An Australian perspective
+Download bibtex file OK.
+
+Internet of Things and Smart Objects for M-health Monitoring and Control
+Download bibtex file OK.
+
+Network layer inter-operation of Device-to-Device communication technologies in Internet of Things (IoT)
+Download bibtex file OK.
+
+Access control in the Internet of Things: Big challenges and new opportunities
+Download bibtex file OK.
+
+User preference for an IoT healthcare application for lifestyle disease management
+Download bibtex file OK.
+
+The role of Information and communication technologies in healthcare: Taxonomies, perspectives, and challenges
+Download bibtex file OK.
+
+Healthcare and digital transformation
+Download bibtex file OK.
+
+A new elastic trickle timer algorithm for Internet of Things
+Download bibtex file OK.
+
+State-of-the-art, challenges, and open issues in the integration of Internet of things and cloud computing
+Download bibtex file OK.
+
+Super-resolution of retinal images using multi-kernel SVR for IoT healthcare applications
+Download bibtex file OK.
+
+Taking Arduino to the Internet of Things: The ASIP programming model
+Download bibtex file OK.
+
+Secure routing for internet of things: A survey
+Download bibtex file OK.
+
+Combining heterogeneous service technologies for building an Internet of Things middleware
+Download bibtex file OK.
+
+An empirical examination of consumer adoption of Internet of Things services: Network externalities and concern for information privacy perspectives
+Download bibtex file OK.
+
+Internet of Things (IoT): A vision, architectural elements, and future directions
+Download bibtex file OK.
+
+Cloud-centric IoT based disease diagnosis healthcare framework
+Download bibtex file OK.
+
+A Cloud-based Architecture for the Internet of Things targeting Industrial Devices Remote Monitoring and Control
+Download bibtex file OK.
+
+A personal connected health system for the Internet of Things based on the Constrained Application Protocol
+Download bibtex file OK.
+
+How the internet of things technology enhances emergency response operations
+Download bibtex file OK.
+
+Food contamination monitoring via internet of things, exemplified by using pocket-sized immunosensor as terminal unit
+Download bibtex file OK.
+
+LISA: Lightweight Internet of Things Service Bus Architecture
+Download bibtex file OK.
+
+Toward modeling and optimization of features selection in Big Data based social Internet of Things
+Download bibtex file OK.
+
+Secure solution of trusted Internet of things base on TCM
+Download bibtex file OK.
+
+The Internet of Things vision: Key features, applications and open issues
+Download bibtex file OK.
+
+A Comprehensive Semantic Model for Smart Object Description and Request Resolution in the Internet of Things
+Download bibtex file OK.
+
+A survey on trust management for Internet of Things
+Download bibtex file OK.
+
+A context-aware dispatcher for the Internet of Things: The case of electric power distribution systems
+Download bibtex file OK.
+
+Internet of Things for Medication Control: Service Implementation and Testing
+Download bibtex file OK.
+
+A game-theoretic model and analysis of data exchange protocols for Internet of Things in clouds
+Download bibtex file OK.
+
+Implications of big data analytics in developing healthcare frameworks – A review
+Download bibtex file OK.
+
+A reliable IoT system for Personal Healthcare Devices
+Download bibtex file OK.
+
+Zigbee-based Internet of Things in 3D Terrains
+Download bibtex file OK.
+
+Predicting RFID adoption in healthcare supply chain from the perspectives of users
+Download bibtex file OK.
+
+A review of essential standards and patent landscapes for the Internet of Things: A key enabler for Industry 4.0
+Download bibtex file OK.
+
+Scalable RFID security framework and protocol supporting Internet of Things
+Download bibtex file OK.
+
+Stream Processing of Healthcare Sensor Data: Studying User Traces to Identify Challenges from a Big Data Perspective
+Download bibtex file OK.
+
+Privacy-preserving smart IoT-based healthcare big data storage and self-adaptive access control system
+Download bibtex file OK.
+
+Bottom-up approach based on Internet of Things for order fulfillment in a collaborative warehousing environment
+Download bibtex file OK.
+
+SRTS : A Self-Recoverable Time Synchronization for sensor networks of healthcare IoT
+Download bibtex file OK.
+
+A task-efficient sink node based on embedded multi-core soC for Internet of Things
+Download bibtex file OK.
+
+Terminal Authentication in M2M Communications in the Context of Internet of Things
+Download bibtex file OK.
+
+A dependability evaluation tool for the Internet of Things
+Download bibtex file OK.
+
+Performance Evaluation of Server-side JavaScript for Healthcare Hub Server in Remote Healthcare Monitoring System
+Download bibtex file OK.
+
+Closed-loop design evolution of engineering system using condition monitoring through internet of things and cloud computing
+Download bibtex file OK.
+
+Consumers vs Internet of Things: A Systematic Evaluation Process to Drive Users in the Smart World
+Download bibtex file OK.
+
+Secure and fine-grained access control on e-healthcare records in mobile cloud computing
+Download bibtex file OK.
+
+Metaheuristic Algorithms for Healthcare: Open Issues and Challenges
+Download bibtex file OK.
+
+Real-time safety early warning system for cross passage construction in Yangtze Riverbed Metro Tunnel based on the internet of things
+Download bibtex file OK.
+
+An efficient user authentication and key agreement scheme for heterogeneous wireless sensor network tailored for the Internet of Things environment
+Download bibtex file OK.
+
+MQRP: Mobile sinks-based QoS-aware data gathering protocol for wireless sensor networks-based smart grid applications in the context of industry 4.0-based on internet of things
+Download bibtex file OK.
+
+Towards a Comprehensive Data Analytics Framework for Smart Healthcare Services
+Download bibtex file OK.
+
+Towards a commodity solution for the internet of things
+Download bibtex file OK.
+
+A Context Broker for Better Access to Quality and Cost-effective Healthcare
+Download bibtex file OK.
+
+A lightweight and robust two-factor authentication scheme for personalized healthcare systems using wireless medical sensor networks
+Download bibtex file OK.
+
+A certificateless aggregate signature scheme for healthcare wireless sensor network
+Download bibtex file OK.
+
+An agent-based hybrid service delivery for coordinating internet of things and 3rd party service providers
+Download bibtex file OK.
+
+Visualizing the knowledge structure and evolution of big data research in healthcare informatics
+Download bibtex file OK.
+
+Internet of Things for Real-time Waste Monitoring and Benchmarking: Waste Reduction in Manufacturing Shop Floor
