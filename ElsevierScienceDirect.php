@@ -6,7 +6,9 @@ class ElsevierScienceDirect {
 
     public static function getURL($offset, $query) 
     {
-        $url = self::$URL . "/search?qs=$query&origin=home&zone=qSearch&articleTypes=REV%2CFLA&lastSelectedFacet=articleTypes&show=100&offset=$offset";        
+        // $url = self::$URL . "/search?qs=$query&sortBy=relevance&articleTypes=REV%2CFLA&lastSelectedFacet=articleTypes&show=100&offset=$offset";
+        $url = self::$URL . "/search?qs=$query&show=100&sortBy=relevance&articleTypes=REV%2CFLA&offset=$offset";
+        Util::showMessage($url);
         return $url;
     }
 

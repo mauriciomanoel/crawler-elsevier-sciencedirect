@@ -36,7 +36,7 @@
         if (isset($_GET['page'])) {
             ElsevierScienceDirect::start(($page*100), $query_string, $url);
         }  else if (isset($_GET['results'])) {            
-            for($offset=1; $offset<=$total; $offset++) {
+            for($offset=0; $offset<=$total; $offset++) {
                 ElsevierScienceDirect::start(($offset*100), $query_string, $url);
                 $sleep = rand(5,9);
                 if ($offset != $total) {
@@ -48,6 +48,6 @@
         }
 
     } catch(Exception $e) {
-        echo $e->getMessage() . BREAK_LINE;
+        Util::showMessage($e->getMessage());
     }
 ?>

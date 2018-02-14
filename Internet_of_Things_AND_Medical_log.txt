@@ -3266,3 +3266,307 @@ Download bibtex file OK.
 File bibtex/Internet_of_Things_AND_Medical.bib saved successfully.
 
 Page: 1200
+Page: 0
+https://www.sciencedirect.com/search?qs=%28%28%22Internet+of+Things%22%29+AND+%22Medical%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA&offset=0
+Internet of Things: A systematic review of the business literature from the user and organisational perspectives
+Download bibtex file OK.
+
+A survey on Internet of Things architectures
+Download bibtex file OK.
+
+The rise of ransomware and emerging security challenges in the Internet of Things
+Download bibtex file OK.
+
+A remote attestation mechanism for the sensing layer nodes of the Internet of Things
+Download bibtex file OK.
+
+Explore technology innovation and intelligence for IoT (Internet of Things) based eyewear technology
+Download bibtex file OK.
+
+Advanced internet of things for personalised healthcare systems: A survey
+Download bibtex file OK.
+
+Effect of attacker characterization in ECG-based continuous authentication mechanisms for Internet of Things
+Download bibtex file OK.
+
+The Internet of Things for basic nursing care—A scoping review
+Download bibtex file OK.
+
+Internet of Things in agriculture, recent advances and future challenges
+Download bibtex file OK.
+
+A review of smart home applications based on Internet of Things
+Download bibtex file OK.
+
+Cognitive radio for M2M and Internet of Things: A survey
+Download bibtex file OK.
+
+COMFIT: A development environment for the Internet of Things
+Download bibtex file OK.
+
+The monitoring and managing application of cloud computing based on Internet of Things
+Download bibtex file OK.
+
+An energy-efficient internet of things (IoT) architecture for preventive conservation of cultural heritage
+Download bibtex file OK.
+
+Semantic interoperability in the Internet of Things: An overview from the INTER-IoT perspective
+Download bibtex file OK.
+
+Everything as a resource: Foundations and illustration through Internet-of-things
+Download bibtex file OK.
+
+An Internet of Things-based health prescription assistant and its security system design
+Download bibtex file OK.
+
+A framework for enhancing the performance of Internet of Things applications based on RFID and WSNs
+Download bibtex file OK.
+
+A policy enforcement framework for Internet of Things applications in the smart health
+Download bibtex file OK.
+
+The Internet of Things – The future or the end of mechatronics
+Download bibtex file OK.
+
+An access control management protocol for Internet of Things devices
+Download bibtex file OK.
+
+The internet of things in healthcare: An overview
+Download bibtex file OK.
+
+Machine learning for Internet of Things data analysis: A survey
+Download bibtex file OK.
+
+Towards end-user development of graphical user interfaces for internet of things
+Download bibtex file OK.
+
+Edge cloud computing technologies for internet of things: A primer
+Download bibtex file OK.
+
+How to disinfect and secure the Internet of Things
+Download bibtex file OK.
+
+Cyber–physical systems: Extending pervasive sensing from control theory to the Internet of Things
+Download bibtex file OK.
+
+Patient Monitoring System Based on Internet of Things
+Download bibtex file OK.
+
+Lightweight distributed secure data management system for health internet of things
+Download bibtex file OK.
+
+Prototype for multidisciplinary research in the context of the Internet of Things
+Download bibtex file OK.
+
+Internet of things: Privacy issues revisited
+Download bibtex file OK.
+
+Ontology Based Public Healthcare System in Internet of Things (IoT)
+Download bibtex file OK.
+
+The evolution of the internet of things industry and market in China: An interplay of institutions, demands and supply
+Download bibtex file OK.
+
+PAgIoT – Privacy-preserving Aggregation protocol for Internet of Things
+Download bibtex file OK.
+
+A blockchain future to Internet of Things security: A position paper
+Download bibtex file OK.
+
+Internet of Things as Key Enabler for Sustainable Healthcare Delivery
+Download bibtex file OK.
+
+Opportunity vs risk with the Internet of Things
+Download bibtex file OK.
+
+Internet of Things security: A survey
+Download bibtex file OK.
+
+Methodology for Monitoring Manufacturing Environment by Using Wireless Sensor Networks (WSN) and the Internet of Things (IoT)
+Download bibtex file OK.
+
+Misty clouds—A layered cloud platform for online user anonymity in Social Internet of Things
+Download bibtex file OK.
+
+Security and privacy mechanism for health internet of things
+Download bibtex file OK.
+
+Exploiting smart e-Health gateways at the edge of healthcare Internet-of-Things: A fog computing approach
+Download bibtex file OK.
+
+A comprehensive approach to privacy in the cloud-based Internet of Things
+Download bibtex file OK.
+
+Business Models for the Internet of Things Environment
+Download bibtex file OK.
+
+Integration of Cloud computing and Internet of Things: A survey
+Download bibtex file OK.
+
+Internet of Things in product life-cycle energy management
+Download bibtex file OK.
+
+Delivering the Internet of Things
+Download bibtex file OK.
+
+Using the Internet of Things Technology Constructing Digital Mine
+Download bibtex file OK.
+
+The influence of the Industrial Internet of Things on business models of established manufacturing companies – A business level perspective
+Download bibtex file OK.
+
+Major requirements for building Smart Homes in Smart Cities based on Internet of Things technologies
+Download bibtex file OK.
+
+Approach to Manage Complexity in Internet of Things
+Download bibtex file OK.
+
+A novel three-tier Internet of Things architecture with machine learning algorithm for early detection of heart diseases
+Download bibtex file OK.
+
+G-SPAMINE: An approach to discover temporal association patterns and trends in internet of things
+Download bibtex file OK.
+
+When things matter: A survey on data-centric internet of things
+Download bibtex file OK.
+
+The Internet of Things: A survey
+Download bibtex file OK.
+
+A socio-technical framework for Internet-of-Things design: A human-centered design for the Internet of Things
+Download bibtex file OK.
+
+Privacy by Design: Informed Consent and Internet of Things for Smart Health
+Download bibtex file OK.
+
+Kill switches, remote deletion, and intelligent agents: Framing everyday household cybersecurity in the internet of things
+Download bibtex file OK.
+
+The security issues of the Internet of Things
+Download bibtex file OK.
+
+BlueVoice: Voice communications over Bluetooth Low Energy in the Internet of Things scenario
+Download bibtex file OK.
+
+An Internet-of-Things (IoT) System Development and Implementation for Bathroom Safety Enhancement
+Download bibtex file OK.
+
+Cloud-assisted Industrial Internet of Things (IIoT) – Enabled framework for health monitoring
+Download bibtex file OK.
+
+Smart health monitoring and management system: Toward autonomous wearable sensing for internet of things using big data analytics
+Download bibtex file OK.
+
+The Internet of Things (IoT): Applications, investments, and challenges for enterprises
+Download bibtex file OK.
+
+Collaborative building of behavioural models based on internet of things
+Download bibtex file OK.
+
+End-to-end security scheme for mobility enabled healthcare Internet of Things
+Download bibtex file OK.
+
+Research on Key Technology and Applications for Internet of Things
+Download bibtex file OK.
+
+Privacy-Preserving Data Aggregation in Resource-Constrained Sensor Nodes in Internet of Things: A Review
+Download bibtex file OK.
+
+A Transaction Model for Executions of Compositions of Internet of Things Services
+Download bibtex file OK.
+
+ERGID: An efficient routing protocol for emergency response Internet of Things
+Download bibtex file OK.
+
+Network layer inter-operation of Device-to-Device communication technologies in Internet of Things (IoT)
+Download bibtex file OK.
+
+Data quality in internet of things: A state-of-the-art survey
+Download bibtex file OK.
+
+A new architecture of Internet of Things and big data ecosystem for secured smart healthcare monitoring and alerting system
+Download bibtex file OK.
+
+Health Internet of Things: Metrics and methods for efficient data transfer
+Download bibtex file OK.
+
+The Internet of Things (IoT) and its impact on individual privacy: An Australian perspective
+Download bibtex file OK.
+
+Internet of Things: Geographical Routing based on healthcare centers vicinity for mobile smart tourism destination
+Download bibtex file OK.
+
+Digital forensics: the missing piece of the Internet of Things promise
+Download bibtex file OK.
+
+DTLS based security and two-way authentication for the Internet of Things
+Download bibtex file OK.
+
+Energy efficient wireless communication technique based on Cognitive Radio for Internet of Things
+Download bibtex file OK.
+
+Access control in the Internet of Things: Big challenges and new opportunities
+Download bibtex file OK.
+
+Reducing driver's behavioural uncertainties using an interdisciplinary approach: Convergence of Quantified Self, Automated Vehicles, Internet Of Things and Artificial Intelligence.
+Download bibtex file OK.
+
+State-of-the-art, challenges, and open issues in the integration of Internet of things and cloud computing
+Download bibtex file OK.
+
+Internet of Things and Smart Objects for M-health Monitoring and Control
+Download bibtex file OK.
+
+AODV routing protocol for Cognitive radio access based Internet of Things (IoT)
+Download bibtex file OK.
+
+Secure routing for internet of things: A survey
+Download bibtex file OK.
+
+Taking Arduino to the Internet of Things: The ASIP programming model
+Download bibtex file OK.
+
+Autonomic schemes for threat mitigation in Internet of Things
+Download bibtex file OK.
+
+How the internet of things technology enhances emergency response operations
+Download bibtex file OK.
+
+Internet of Things for Medication Control: Service Implementation and Testing
+Download bibtex file OK.
+
+A lightweight attribute-based encryption scheme for the Internet of Things
+Download bibtex file OK.
+
+Research and Application on the Smart Home Based on Component Technologies and Internet of Things
+Download bibtex file OK.
+
+SecKit: A Model-based Security Toolkit for the Internet of Things
+Download bibtex file OK.
+
+The Internet of Things vision: Key features, applications and open issues
+Download bibtex file OK.
+
+MAC-aware routing metrics for the internet of things
+Download bibtex file OK.
+
+Secure solution of trusted Internet of things base on TCM
+Download bibtex file OK.
+
+Privacy in Internet of Things: A Model and Protection Framework
+Download bibtex file OK.
+
+Energy-harvesting based on internet of things and big data analytics for smart health monitoring
+Download bibtex file OK.
+
+Toward modeling and optimization of features selection in Big Data based social Internet of Things
+Download bibtex file OK.
+
+Bluetooth for Internet of Things: A fuzzy approach to improve power management in smart homes
+Download bibtex file OK.
+
+IoTFLiP: IoT-based flipped learning platform for medical education
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Medical.bib saved successfully.
+

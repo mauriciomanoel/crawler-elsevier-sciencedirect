@@ -180,3 +180,2548 @@ Visualizing the knowledge structure and evolution of big data research in health
 Download bibtex file OK.
 
 Internet of Things for Real-time Waste Monitoring and Benchmarking: Waste Reduction in Manufacturing Shop Floor
+Download bibtex file OK.
+
+Using Goals and Indicators for Activity-based Process Integration in Healthcare
+Download bibtex file OK.
+
+Key management systems for sensor networks in the context of the Internet of Things
+Download bibtex file OK.
+
+Urban planning and building smart cities based on the Internet of Things using Big Data analytics
+Download bibtex file OK.
+
+Multiple bio-monitoring system using visible light for electromagnetic-wave free indoor healthcare
+Download bibtex file OK.
+
+Wearable IoT sensor based healthcare system for identifying and controlling chikungunya virus
+Download bibtex file OK.
+
+Type-2 fuzzy ontology–aided recommendation systems for IoT–based healthcare
+Download bibtex file OK.
+
+An inferential real-time falling posture reconstruction for Internet of healthcare things
+Download bibtex file OK.
+
+Context-aware low power intelligent SmartHome based on the Internet of things
+Download bibtex file OK.
+
+Living Function Resilient Service Using a Mock Living Lab and Real Living Labs: Development of Balcony-IoT and Handrail-IoT for Healthcare
+Download bibtex file OK.
+
+A survey of healthcare facility location
+Download bibtex file OK.
+
+Interoperability as a Property of Ubiquitous Healthcare Systems
+Download bibtex file OK.
+
+Semantic interoperability for big-data in heterogeneous IoT infrastructure for healthcare
+Download bibtex file OK.
+
+A novel user authentication and key agreement scheme for heterogeneous ad hoc wireless sensor networks, based on the Internet of Things notion
+Download bibtex file OK.
+
+Improved Classical Cipher for Healthcare Applications
+Download bibtex file OK.
+
+Semantic service provisioning for smart objects: Integrating IoT applications into the web
+Download bibtex file OK.
+
+An intelligent framework for workouts in gymnasium: M-Health perspective
+Download bibtex file OK.
+
+Verifiable keyword search for secure big data-based mobile healthcare networks with fine-grained authorization control
+Download bibtex file OK.
+
+SEA: A Secure and Efficient Authentication and Authorization Architecture for IoT-Based Healthcare Using Smart Gateways
+Download bibtex file OK.
+
+Big Data Privacy in Healthcare Moroccan Context
+Download bibtex file OK.
+
+Effects of LTE Random Access Methods on Healthcare M2M Applications
+Download bibtex file OK.
+
+SEIRA: An effective algorithm for IoT resource allocation problem
+Download bibtex file OK.
+
+Data integration in IoT ecosystem: Information linkage as a privacy threat
+Download bibtex file OK.
+
+On-Cloud Healthcare Clinic: An e-health consultancy approach for remote communities in a developing country
+Download bibtex file OK.
+
+When social objects collaborate: Concepts, processing elements, attacks and challenges
+Download bibtex file OK.
+
+Comparison of WSN and IoT approaches for a real-time monitoring system of meal distribution trolleys: A case study
+Download bibtex file OK.
+
+A parallel metaheuristic data clustering framework for cloud
+Download bibtex file OK.
+
+Use Eye Tracker to Design an Intelligent Patient Bed
+Download bibtex file OK.
+
+Emerging information technologies for enhanced healthcare
+Download bibtex file OK.
+
+Avoiding the internet of insecure industrial things
+Download bibtex file OK.
+
+An efficient ECC-based provably secure three-factor user authentication and key agreement protocol for wireless healthcare sensor networks
+Download bibtex file OK.
+
+Using big data analytics to extract disease surveillance information from point of care diagnostic machines
+Download bibtex file OK.
+
+Analysis of a data-flow in a financial IoT system
+Download bibtex file OK.
+
+An Internet of Energy Things Based on Wireless LPWAN
+Download bibtex file OK.
+
+Dynamic power management and adaptive packet size selection for IoT in e-Healthcare
+Download bibtex file OK.
+
+Prototyping Business Models for IoT Service
+Download bibtex file OK.
+
+Computer-Assisted Decision Support System in Pulmonary Cancer detection and stage classification on CT images
+Download bibtex file OK.
+
+The Programmable City
+Download bibtex file OK.
+
+Wearable IoT data stream traceability in a distributed health information system
+Download bibtex file OK.
+
+Outlook on moving of computing services towards the data sources
+Download bibtex file OK.
+
+Statistical Process Monitoring for IoT-Enabled Cybermanufacturing: Opportunities and Challenges
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 8 seconds before executing next page
+
+Page: 200
+Modelling IoT behaviour within BPMN Business Processes
+Download bibtex file OK.
+
+Use of hierarchical decision modeling to select target markets for a new personal healthcare device
+Download bibtex file OK.
+
+CUIDATS: An RFID–WSN hybrid monitoring system for smart health care environments
+Download bibtex file OK.
+
+How and what to study about IoT: Research trends and future directions from the perspective of social science
+Download bibtex file OK.
+
+Smart health: Big data enabled health paradigm within smart cities
+Download bibtex file OK.
+
+A multimedia healthcare data sharing approach through cloud-based body area network
+Download bibtex file OK.
+
+Impact of sensor nodes scaling and velocity on handover mechanisms for healthcare wireless sensor networks with mobility support
+Download bibtex file OK.
+
+Temperature Monitoring Through Wireless Sensor Network Using an 802.15.4/802.11 Gateway
+Download bibtex file OK.
+
+I’m in! Towards participatory healthcare of elderly through IOT.
+Download bibtex file OK.
+
+The TrUST Project: Improving the Fruition of Historical Centres through Smart Objects
+Download bibtex file OK.
+
+Quality of service approaches in IoT: A systematic mapping
+Download bibtex file OK.
+
+The Promise of Information and Communication Technology in Healthcare: Extracting Value From the Chaos
+Download bibtex file OK.
+
+An IoT-based greenhouse monitoring system with Micaz motes
+Download bibtex file OK.
+
+Smart Home Assistant for Ambient Assisted Living of Elderly People with Dementia
+Download bibtex file OK.
+
+IoTFLiP: IoT-based flipped learning platform for medical education
+Download bibtex file OK.
+
+Geoblood: A Web Based Tool for Geo-analysis of Biological Data
+Download bibtex file OK.
+
+Efficient IoT-based sensor BIG Data collection–processing and analysis in smart buildings
+Download bibtex file OK.
+
+On the use of IoT and Big Data Technologies for Real-time Monitoring and Data Processing
+Download bibtex file OK.
+
+A novel approach for smart cities in convergence to wireless sensor networks
+Download bibtex file OK.
+
+Effectiveness of web-based social sensing in health information dissemination—A review
+Download bibtex file OK.
+
+A wearable health monitoring system for posttraumatic stress disorder
+Download bibtex file OK.
+
+Consume: A privacy-preserving authorisation and authentication service for connecting with health and wellbeing APIs
+Download bibtex file OK.
+
+Intelligent Manufacturing in the Context of Industry 4.0: A Review
+Download bibtex file OK.
+
+The contours of a human individual model based empathetic u-pillbox system for humanistic geriatric healthcare
+Download bibtex file OK.
+
+Exploiting IoT technologies for enhancing Health Smart Homes through patient identification and emotion recognition
+Bibtex could not be downloaded
+Potentials, trends, and prospects in edge technologies: Fog, cloudlet, mobile edge, and micro data centers
+Download bibtex file OK.
+
+Integrated and Intelligent Manufacturing: Perspectives and Enablers
+Download bibtex file OK.
+
+An Infrastructure for Individualised and Intelligent Decision-making and Negotiation in Cyber-physical Systems
+Download bibtex file OK.
+
+Sensor-based entrepreneurship: A framework for developing new products and services
+Download bibtex file OK.
+
+Dynamic evaluation model of coronary heart disease for ubiquitous healthcare
+Download bibtex file OK.
+
+MIFIM—Middleware solution for service centric anomaly in future internet models
+Download bibtex file OK.
+
+Behavioural informatics for improving water hygiene practice based on IoT environment
+Download bibtex file OK.
+
+Providing healthcare services on-the-fly using multi-player cooperation game theory in Internet of Vehicles (IoV) environment
+Download bibtex file OK.
+
+A wireless potentiostat for mobile chemical sensing and biosensing
+Download bibtex file OK.
+
+Secure video summarization framework for personalized wireless capsule endoscopy
+Download bibtex file OK.
+
+Towards a service-oriented cyber–physical systems of systems for smart city mobility applications
+Download bibtex file OK.
+
+The “Smartstone”: using smartphones as a telehealth gateway for senior citizens
+Download bibtex file OK.
+
+Smart Safety &amp; Health Care in Cities
+Download bibtex file OK.
+
+Blockchain's roles in strengthening cybersecurity and protecting privacy
+Download bibtex file OK.
+
+Industry 4.0: A survey on technologies, applications and open research issues
+Download bibtex file OK.
+
+Research Lines to Improve Access to Health Instrumentation Design
+Download bibtex file OK.
+
+The Role of Smart Data in Smart Home: Health Monitoring Case
+Download bibtex file OK.
+
+A computer-aided healthcare system for cataract classification and grading based on fundus image analysis
+Download bibtex file OK.
+
+Security policy enforcement for networked smart objects
+Download bibtex file OK.
+
+A Communication Protocol for Different Communication Technologies in Cyber-Physical Systems
+Download bibtex file OK.
+
+IoT-based students interaction framework using attention-scoring assessment in eLearning
+Download bibtex file OK.
+
+A fair QoS-aware dynamic LTE scheduler for machine-to-machine communication
+Download bibtex file OK.
+
+Using virtual environments for the assessment of cybersecurity issues in IoT scenarios
+Download bibtex file OK.
+
+Big Data and virtualization for manufacturing cyber-physical systems: A survey of the current status and future outlook
+Download bibtex file OK.
+
+Providing destructive privacy and scalability in RFID systems using PUFs
+Download bibtex file OK.
+
+Distributed cell selection for scheduling function in 6TiSCH networks
+Download bibtex file OK.
+
+Using Provenance and CoAP to track Requests/Responses in IoT
+Download bibtex file OK.
+
+Ubiquitous Tele-health System for Elderly Patients with Alzheimer's
+Download bibtex file OK.
+
+Deployment of an open sensorized platform in a smart city context
+Download bibtex file OK.
+
+Design and evaluation of Ubiquitous Information Systems and use in healthcare
+Download bibtex file OK.
+
+Interest-aware energy collection &amp; resource management in machine to machine communications
+Download bibtex file OK.
+
+IoT-based continuous glucose monitoring system: A feasibility study
+Download bibtex file OK.
+
+The next stage of U.S. communications policy: The emerging embedded infosphere
+Download bibtex file OK.
+
+Research on Big Data – A systematic mapping study
+Download bibtex file OK.
+
+Improving network resources allocation in smart cities video surveillance
+Download bibtex file OK.
+
+Integrated Data Model and Structure for the Asset Administration Shell in Industrie 4.0
+Download bibtex file OK.
+
+IoT, big data and HPC based smart flood management framework
+Download bibtex file OK.
+
+Cloud based management and control system for smart communities: A practical case study
+Download bibtex file OK.
+
+Survey on fog computing: architecture, key technologies, applications and open issues
+Download bibtex file OK.
+
+Scheduling for IEEE802.15.4-TSCH and slow channel hopping MAC in low power industrial wireless networks: A survey
+Download bibtex file OK.
+
+A Web Platform for Interconnecting Body Sensors and Improving Health Care
+Download bibtex file OK.
+
+Service composition for IP smart object using realtime Web protocols: Concept and research challenges
+Download bibtex file OK.
+
+Health and emergency-care platform for the elderly and disabled people in the Smart City
+Download bibtex file OK.
+
+Cooperative resynchronization to improve the reliability of colocated IEEE 802.15.4 -TSCH networks in dense deployments
+Download bibtex file OK.
+
+Leveraging Cloud Computing for Systematic Performance Management of Quality of Care
+Download bibtex file OK.
+
+An Enterprise Systems Model to Deliver Innovation in the Healthcare Industry Based on Cognitive and Social-Tech Engineering
+Download bibtex file OK.
+
+An IoT-based mobile gateway for intelligent personal assistants on mobile health environments
+Download bibtex file OK.
+
+Software-defined Cloud Manufacturing for Industry 4.0
+Download bibtex file OK.
+
+Joint power control and channel assignment in uplink IoT Networks: A non-cooperative game and auction based approach
+Download bibtex file OK.
+
+A roadmap for scalable agent organizations in the Internet of Everything
+Download bibtex file OK.
+
+Survivable Path Routing in WSN for IoT applications
+Download bibtex file OK.
+
+IoT Data Provenance Implementation Challenges
+Download bibtex file OK.
+
+A multi-criteria approach toward discovering killer IoT application in Korea
+Download bibtex file OK.
+
+A survey of values, technologies and contexts in pervasive healthcare
+Download bibtex file OK.
+
+Wireless smart tag with potentiometric input for ultra low-power chemical sensing
+Download bibtex file OK.
+
+Energy efficient wearable sensor node for IoT-based fall detection systems
+Download bibtex file OK.
+
+Investigating Security for Ubiquitous Sensor Networks
+Download bibtex file OK.
+
+Development of a New ICT-Based Multisensor Blood Pressure Monitoring System for Use in Hemodynamic Biomarker-Initiated Anticipation Medicine for Cardiovascular Disease: The National IMPACT Program Project
+Download bibtex file OK.
+
+On the application of contextual IoT service discovery in Information Centric Networks
+Download bibtex file OK.
+
+5G-enabled devices and smart-spaces in social-IoT: An overview
+Download bibtex file OK.
+
+Towards Composable Threat Assessment for Medical IoT (MIoT)
+Download bibtex file OK.
+
+Disruption of Things: A Model to Facilitate Adoption of IoT-based Innovations by the Urban Poor
+Download bibtex file OK.
+
+IOTSim: A simulator for analysing IoT applications
+Download bibtex file OK.
+
+MDP-IoT: MDP based interest forwarding for heterogeneous traffic in IoT-NDN environment
+Download bibtex file OK.
+
+Resource conservation approached with an appropriate collection and upgrade-remanufacturing for used electronic products
+Download bibtex file OK.
+
+IoT-based occupancy detection system in indoor residential environments
+Download bibtex file OK.
+
+An experimental study of a reliable IoT gateway
+Download bibtex file OK.
+
+A lightweight biometrics based remote user authentication scheme for IoT services
+Download bibtex file OK.
+
+Universal model of bias-stress-induced instability in inkjet-printed carbon nanotube networks field-effect transistors
+Download bibtex file OK.
+
+A zero-watermarking algorithm for privacy protection in biomedical signals
+Download bibtex file OK.
+
+A delay-aware schedule method for distributed information fusion with elastic and inelastic traffic
+Download bibtex file OK.
+
+An Early Detection System for Dementia Using the M2 M/IoT Platform
+Download bibtex file OK.
+
+Activity Detection in Smart Home Environment
+Download bibtex file OK.
+
+Network and information security challenges within Industry 4.0 paradigm
+Download bibtex file OK.
+
+Biosignal monitoring using wearables: Observations and opportunities
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 6 seconds before executing next page
+
+Page: 300
+On precisely relating the growth of Phalaenopsis leaves to greenhouse environmental factors by using an IoT-based monitoring system
+Download bibtex file OK.
+
+There's nothing ‘smart’ about insecure connected devices
+Download bibtex file OK.
+
+Secure IoT Devices for the Maintenance of Machine Tools
+Download bibtex file OK.
+
+Power transmission and workload balancing policies in eHealth mobile cloud computing scenarios
+Download bibtex file OK.
+
+Reconfiguration of smart products during their use phase based on virtual product twins
+Download bibtex file OK.
+
+The impact of China's 2016 Cyber Security Law on foreign technology firms, and on China's big data and Smart City dreams
+Download bibtex file OK.
+
+How data analytics is transforming agriculture
+Download bibtex file OK.
+
+GPS Signal Channel Modeling and Verification
+Download bibtex file OK.
+
+Combining of NFC, BLE and Physical Web Technologies for Objects Authentication on IoT Scenarios
+Download bibtex file OK.
+
+Secure and efficient user authentication scheme for multi-gateway wireless sensor networks
+Download bibtex file OK.
+
+Leveraging heterogeneous device connectivity in a converged 5G-IoT ecosystem
+Download bibtex file OK.
+
+IoT security: Review, blockchain solutions, and open challenges
+Download bibtex file OK.
+
+Cross-layer multiuser session control for optimized communications on SDN-based cloud platforms
+Download bibtex file OK.
+
+Internet of multimedia things: Vision and challenges
+Download bibtex file OK.
+
+Privacy-preserving fusion of IoT and big data for e-health
+Download bibtex file OK.
+
+LCPC Error Correction Code for IoT Applications
+Download bibtex file OK.
+
+A survey on LPWA technology: LoRa and NB-IoT
+Download bibtex file OK.
+
+Knowledge-Aware and Service-Oriented Middleware for deploying pervasive services
+Download bibtex file OK.
+
+Proposal of Receiver Initiated MAC Protocol for WSN in urban environment using IoT
+Download bibtex file OK.
+
+Remarks on a computational estimator for the barrier option pricing in an IoT scenario
+Download bibtex file OK.
+
+Exploring interactive style and user experience design for social web of things of Chinese users: A case study in Beijing
+Download bibtex file OK.
+
+Energy-aware composition for wireless sensor networks as a service
+Download bibtex file OK.
+
+Energy efficient context aware traffic scheduling for IoT applications
+Download bibtex file OK.
+
+Energy-aware and quality-driven sensor management for green mobile crowd sensing
+Download bibtex file OK.
+
+Internet of intelligent things and robot as a service
+Download bibtex file OK.
+
+eCloudRFID – A mobile software framework architecture for pervasive RFID-based applications
+Download bibtex file OK.
+
+Secure and reliable patient body motion based authentication approach for medical body area networks
+Download bibtex file OK.
+
+Edge-based interoperable service-driven information distribution for intelligent pervasive services
+Download bibtex file OK.
+
+A novel bagging C4.5 algorithm based on wrapper feature selection for supporting wise clinical decision making
+Download bibtex file OK.
+
+Knowledge-infused and consistent Complex Event Processing over real-time and persistent streams
+Download bibtex file OK.
+
+A knowledge-driven approach for activity recognition in smart homes based on activity profiling
+Download bibtex file OK.
+
+Recent advances in wearable tactile sensors: Materials, sensing mechanisms, and device performance
+Download bibtex file OK.
+
+Middleware technologies for cloud of things-a survey
+Download bibtex file OK.
+
+A survey on mobility management protocols in Wireless Sensor Networks based on 6LoWPAN technology
+Download bibtex file OK.
+
+Scheduling the Real-Time Transmission of Periodic Measurements in 802.15.4 Wireless Sensor Network
+Download bibtex file OK.
+
+CLAPP: A self constructing feature clustering approach for anomaly detection
+Download bibtex file OK.
+
+Investigating pipeline and state of the art blood glucose biosensors to formulate next steps
+Download bibtex file OK.
+
+Cyber-physical systems clouds: A survey
+Download bibtex file OK.
+
+Mist Data: Leveraging Mist Computing for Secure and Scalable Architecture for Smart and Connected Health
+Download bibtex file OK.
+
+Big data applications in operations/supply-chain management: A literature review
+Download bibtex file OK.
+
+A standardized approach to deal with firewall and mobility policies in the IoT
+Download bibtex file OK.
+
+It measures like me: An IoTs algorithm in WSNs based on heuristics behavior and clustering methods
+Download bibtex file OK.
+
+A lightweight framework for transparent cross platform communication of controller data in ambient assisted living environments
+Download bibtex file OK.
+
+Improved Hybrid LEACH Based Approach for Preserving Secured Integrity in Wireless Sensor Networks
+Download bibtex file OK.
+
+A matrix-based cross-layer key establishment protocol for smart homes
+Download bibtex file OK.
+
+Towards improving usage and management of supplies in healthcare: An ontology-based solution for sharing knowledge
+Download bibtex file OK.
+
+Towards the development of a Cyber-Intelligent Enterprise System Architecture
+Download bibtex file OK.
+
+Forecasting potential sensor applications of triboelectric nanogenerators through tech mining
+Download bibtex file OK.
+
+Staying secure in a connected world
+Download bibtex file OK.
+
+Low-power and lossy networks under mobility: A survey
+Download bibtex file OK.
+
+Mobility Management for Wireless Sensor Networks A State-of-the-Art
+Download bibtex file OK.
+
+A temperature-compensated graphene sensor for nitrate monitoring in real-time application
+Download bibtex file OK.
+
+The role of big data in smart city
+Download bibtex file OK.
+
+Miniaturised wireless smart tag for optical chemical analysis applications
+Download bibtex file OK.
+
+OM2M: Extensible ETSI-compliant M2M Service Platform with Self-configuration Capability
+Download bibtex file OK.
+
+A review of the smart world
+Download bibtex file OK.
+
+A lightweight multi-layer authentication protocol for wireless body area networks
+Download bibtex file OK.
+
+Ontology-based system for patient monitoring with connected objects
+Download bibtex file OK.
+
+A secure end-to-end IoT solution
+Download bibtex file OK.
+
+Business model analysis of public services operating in the smart city ecosystem: The case of SmartSantander
+Download bibtex file OK.
+
+What Are Data? A Categorization of the Data Sensitivity Spectrum
+Download bibtex file OK.
+
+Towards minimum-delay and energy-efficient flooding in low-duty-cycle wireless sensor networks
+Download bibtex file OK.
+
+Medical big data applications: Intertwined effects and effective resource allocation strategies identified through IRA-NRM analysis
+Download bibtex file OK.
+
+Lightweight and privacy-preserving RFID authentication scheme for distributed IoT infrastructure with secure localization services for smart city environment
+Download bibtex file OK.
+
+5G roadmap: 10 key enabling technologies
+Download bibtex file OK.
+
+A survey on information security threats and solutions for Machine to Machine (M2M) communications
+Download bibtex file OK.
+
+MagicSox: An E-Textile IoT System to Quantify Gait Abnormalities
+Download bibtex file OK.
+
+Towards a Disease Outbreak Notification Framework Using Twitter Mining for Smart Home Dashboards
+Download bibtex file OK.
+
+iDoctor: Personalized and professionalized medical recommendations based on hybrid matrix factorization
+Download bibtex file OK.
+
+MEnSuS: An efficient scheme for energy management with sustainability of cloud data centers in edge–cloud environment
+Download bibtex file OK.
+
+Towards leakage-resilient fine-grained access control in fog computing
+Download bibtex file OK.
+
+RPL-based networks in static and mobile environment: A performance assessment analysis
+Download bibtex file OK.
+
+Distributed computational model for shared processing on Cyber-Physical System environments
+Download bibtex file OK.
+
+A survey of IoT cloud platforms
+Download bibtex file OK.
+
+Surfing the third wave of computing: A framework for research into eObjects
+Download bibtex file OK.
+
+Big data: Dimensions, evolution, impacts, and challenges
+Download bibtex file OK.
+
+Investigation of sensing capabilities of organic bi-layer thermistor in wearable e-textile and wireless sensing devices
+Download bibtex file OK.
+
+Reasoning Strategies in Smart Cyber-Physical Systems
+Download bibtex file OK.
+
+P2P Data synchronization for product lifecycle management
+Download bibtex file OK.
+
+RFID Applications, Issues, Methods and Theory: A Review of the AIS Basket of TOP journals
+Download bibtex file OK.
+
+Non-invasive and wearable early fever detection system for young children
+Download bibtex file OK.
+
+Fast and secure tag authentication in large-scale RFID systems using skip graphs
+Download bibtex file OK.
+
+Personalized Technologies in Chronic Gastrointestinal Disorders: Self-monitoring and Remote Sensor Technologies
+Download bibtex file OK.
+
+Wireless smart tag with on-board conductometric chemical sensor
+Download bibtex file OK.
+
+Semantic interoperability challenges to process large amount of data perspectives in forensic and legal medicine
+Download bibtex file OK.
+
+Cloud enabled data analytics and visualization framework for health-shocks prediction
+Download bibtex file OK.
+
+Design and implementation of a novel service management framework for IoT devices in cloud
+Download bibtex file OK.
+
+Cybersecurity and medical devices: Are the ISO/IEC 80001-2-2 technical controls up to the challenge?
+Download bibtex file OK.
+
+Ubiquitous computing: An overview of technology impacts
+Download bibtex file OK.
+
+Adapting nurse competence to future patient needs using Checkland's Soft Systems Methodology
+Download bibtex file OK.
+
+Fog-cloud based cyber-physical system for distinguishing, detecting and preventing mosquito borne diseases
+Download bibtex file OK.
+
+Big Data for Context Aware Computing – Perspectives and Challenges
+Download bibtex file OK.
+
+Scalable hybrid MAC protocol for M2M communications
+Download bibtex file OK.
+
+Energy harvesting in wireless sensor networks: A comprehensive review
+Download bibtex file OK.
+
+Some remarks about a community open source Lagrangian pollutant transport and dispersion model
+Download bibtex file OK.
+
+Advanced mobile and wearable systems
+Download bibtex file OK.
+
+Link quality aware channel allocation for multichannel body sensor networks
+Download bibtex file OK.
+
+Intelligent System for Medication Management in Residential Environments
+Download bibtex file OK.
+
+China's manufacturing locus in 2025: With a comparison of “Made-in-China 2025” and “Industry 4.0”
+Download bibtex file OK.
+
+Studying innovation ecosystems using ecology theory
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 7 seconds before executing next page
+
+Page: 400
+Cloud-enabled real-time platform for adaptive planning and control in auction logistics center
+Download bibtex file OK.
+
+An approach using support vector regression for mobile location in cellular networks
+Download bibtex file OK.
+
+Physiological-signal-based key negotiation protocols for body sensor networks: A survey
+Download bibtex file OK.
+
+Multiple density maps information fusion for effectively assessing intensity pattern of lifelogging physical activity
+Download bibtex file OK.
+
+Silent risk: new incarnations of longstanding threats
+Download bibtex file OK.
+
+Semi-Supervised Multi-Layered Clustering Model for Intrusion Detection
+Download bibtex file OK.
+
+Low-dimensional carbon based sensors and sensing network for wearable health and environmental monitoring
+Download bibtex file OK.
+
+A survey of routing and data dissemination in Delay Tolerant Networks
+Download bibtex file OK.
+
+Determination of Rule Patterns in Complex Event Processing Using Machine Learning Techniques
+Download bibtex file OK.
+
+The positive impacts of Real-World Data on the challenges facing the evolution of biopharma
+Download bibtex file OK.
+
+Position based cryptography with location privacy: A step for Fog Computing
+Download bibtex file OK.
+
+k-Cliques mining in dynamic social networks based on triadic formal concept analysis
+Download bibtex file OK.
+
+An adaptive case management system to support integrated care services: Lessons learned from the NEXES project
+Download bibtex file OK.
+
+A signaling game-based approach for Data-as-a-Service provisioning in IoT-Cloud
+Download bibtex file OK.
+
+Active and adaptive ensemble learning for online activity recognition from data streams
+Download bibtex file OK.
+
+An integrated remote monitoring platform towards Telehealth and Telecare services interoperability
+Download bibtex file OK.
+
+Data envelopment analysis and interdiction median problem with fortification for enabling IoT technologies to relieve potential attacks
+Download bibtex file OK.
+
+A framework for Business Process Data Management based on Big Data Approach
+Download bibtex file OK.
+
+Smart Cities as Cyber-Physical Social Systems
+Download bibtex file OK.
+
+A context-aware lighting control system for smart meeting rooms
+Download bibtex file OK.
+
+Performance analysis of device discovery of Bluetooth Low Energy (BLE) networks
+Download bibtex file OK.
+
+On the consistency of event processing: A semantic approach
+Download bibtex file OK.
+
+A survey on IEEE 802.11ah: An enabling networking technology for smart cities
+Download bibtex file OK.
+
+A cloud supported model for efficient community health awareness
+Download bibtex file OK.
+
+Instrumenting Wireless Sensor Networks — A survey on the metrics that matter
+Download bibtex file OK.
+
+A QoS Based Service Selection for Smart Cloud Access
+Download bibtex file OK.
+
+Wiki-Health: From Quantified Self to Self-Understanding
+Download bibtex file OK.
+
+Big data: From beginning to future
+Download bibtex file OK.
+
+A methodological framework for assessment of ubiquitous cities using ANP and DEMATEL methods
+Download bibtex file OK.
+
+CONSIGNELA: A multidisciplinary patient-centered project to improve drug prescription comprehension and execution in elderly people and parkinsonian patients
+Download bibtex file OK.
+
+An energy-aware service composition algorithm for multiple cloud-based IoT applications
+Download bibtex file OK.
+
+Indoor mobile object tracking using RFID
+Download bibtex file OK.
+
+Digital health revolution: perfect storm or perfect opportunity for pharmaceutical R&amp;D?
+Download bibtex file OK.
+
+A Machine-to-Machine protocol benchmark for eHealth applications – Use case: Respiratory rehabilitation
+Download bibtex file OK.
+
+Physical assets and service sharing for IoT-enabled Supply Hub in Industrial Park (SHIP)
+Download bibtex file OK.
+
+Al-Yad: A Wearable Sensor Network over DDS Middleware for Industrial Application
+Download bibtex file OK.
+
+Citizen-centered big data analysis-driven governance intelligence framework for smart cities
+Download bibtex file OK.
+
+Integration of Big Data analytics embedded smart city architecture with RESTful web of things for efficient service provision and energy management
+Download bibtex file OK.
+
+Cyber physical systems security: Analysis, challenges and solutions
+Download bibtex file OK.
+
+Enhanced class based dynamic priority scheduling to support uplink IoT traffic in LTE-A networks
+Download bibtex file OK.
+
+A novel access control protocol using proxy signatures for cloud-based health information exchange
+Download bibtex file OK.
+
+Identification of key factors in consumers’ adoption behavior of intelligent medical terminals based on a hybrid modified MADM model for product improvement
+Download bibtex file OK.
+
+A survey towards an integration of big data analytics to big insights for value-creation
+Download bibtex file OK.
+
+Real-time electrocardiogram streams for continuous authentication
+Download bibtex file OK.
+
+A novel communication system approach for a Smart City based on the human nervous system
+Download bibtex file OK.
+
+Advanced Industrial Tools of Ergonomics Based on Industry 4.0 Concept
+Download bibtex file OK.
+
+Socio-cyber network: The potential of cyber-physical system to define human behaviors using big data analytics
+Download bibtex file OK.
+
+IoT-enabled emergency information supply chain architecture for elderly people: The Australian context
+Download bibtex file OK.
+
+Design and implementation of the secure compiler and virtual machine for developing secure IoT services
+Download bibtex file OK.
+
+A review of residential demand response of smart grid
+Download bibtex file OK.
+
+High-performance scheduling model for multisensor gateway of cloud sensor system-based smart-living
+Download bibtex file OK.
+
+Knowle: A semantic link network based system for organizing large scale online news events
+Download bibtex file OK.
+
+An experimental study on geospatial indexing for sensor service discovery
+Download bibtex file OK.
+
+Object tracking sensor networks in smart cities: Taxonomy, architecture, applications, research challenges and future directions
+Download bibtex file OK.
+
+A security gateway application for End-to-End M2M communications
+Download bibtex file OK.
+
+PM2.5 footprint of household energy consumption
+Download bibtex file OK.
+
+Robotics and law: Key legal and regulatory implications of the robotics age (Part I of II)
+Download bibtex file OK.
+
+Performance evaluation of ambient services by combining robotic frameworks and a smart environment platform
+Download bibtex file OK.
+
+Scalable regular pattern mining in evolving body sensor data
+Download bibtex file OK.
+
+Cognitive assisted living ambient system: a survey
+Download bibtex file OK.
+
+Mobility-aware medium access control protocols for wireless sensor networks: A survey
+Download bibtex file OK.
+
+The challenges of M2M massive access in wireless cellular networks
+Download bibtex file OK.
+
+Systems Patientomics: The virtual in-silico patient
+Download bibtex file OK.
+
+SpEED-IoT: Spectrum aware energy efficient routing for device-to-device IoT communication
+Download bibtex file OK.
+
+Deep learning in big data Analytics: A comparative study
+Download bibtex file OK.
+
+Smart Maintenance Decision Support Systems (SMDSS) based on corporate big data analytics
+Download bibtex file OK.
+
+Highly sensitive wireless H2S gas sensors at room temperature based on CuO-SWCNT hybrid nanomaterials
+Download bibtex file OK.
+
+Advanced Virtual Reality Applications and Intelligent Agents for Construction Process Optimisation and Defect Prevention
+Download bibtex file OK.
+
+Smart monitoring and controlling of Pandemic Influenza A (H1N1) using Social Network Analysis and cloud computing
+Download bibtex file OK.
+
+Tightly-Coupled Integrated LR-WPAN/WiMAX Network: Architecture and Performance Modelling
+Download bibtex file OK.
+
+Next generation cloud computing: New trends and research directions
+Download bibtex file OK.
+
+Automatic diabetic retinopathy diagnosis using adjustable ophthalmoscope and multi-scale line operator
+Download bibtex file OK.
+
+Attribute based access control scheme with controlled access delegation for collaborative E-health environments
+Download bibtex file OK.
+
+System of Acquisition, Transmission, Storage and Visualization of Pulse Oximeter and ECG Data Using Android and MQTT
+Download bibtex file OK.
+
+Smart City Architecture and its Applications Based on IoT
+Download bibtex file OK.
+
+Quality and the efficiency of data in “Smart-Cities”
+Download bibtex file OK.
+
+MICAtronics: A new platform for flexible X-tronics
+Download bibtex file OK.
+
+Medicine Reminder and Monitoring System for Secure Health Using IOT
+Download bibtex file OK.
+
+Survey on peer-assisted content delivery networks
+Download bibtex file OK.
+
+E-AMBULANCE: Real-Time Integration Platform for Heterogeneous Medical Telemetry System
+Download bibtex file OK.
+
+Extending the framework for mobile health information systems Research: A content analysis
+Download bibtex file OK.
+
+A novel MAC scheduler to minimize the energy consumption in a Wireless Sensor Network
+Download bibtex file OK.
+
+The IoT for smart sustainable cities of the future: An analytical framework for sensor-based big data applications for environmental sustainability
+Download bibtex file OK.
+
+Pervasive computing at scale: Transforming the state of the art
+Download bibtex file OK.
+
+Recent trends in the development of complementary metal oxide semiconductor image sensors to detect foodborne bacterial pathogens
+Download bibtex file OK.
+
+A text based indexing system for mammographic image retrieval and classification
+Download bibtex file OK.
+
+b+WSN: Smart beehive with preliminary decision tree analysis for agriculture and honey bee health monitoring
+Download bibtex file OK.
+
+Big data in medicine: The upcoming artificial intelligence
+Download bibtex file OK.
+
+Detecting abnormal behaviours of institutionalized older adults through a hybrid-inference approach
+Download bibtex file OK.
+
+Semantic Based Authorization Framework For Multi-Domain Collaborative Cloud Environments
+Download bibtex file OK.
+
+Towards a secure service provisioning framework in a Smart city environment
+Download bibtex file OK.
+
+Machine-to-Machine (M2M) communications: A survey
+Download bibtex file OK.
+
+S-ABC: A paradigm of service domain-oriented artificial bee colony algorithms for service selection and composition
+Download bibtex file OK.
+
+Big Data for supply chain management in the service and manufacturing sectors: Challenges, opportunities, and future perspectives
+Download bibtex file OK.
+
+Enabling Smarter Societies through Mobile Big Data Fogs and Clouds
+Download bibtex file OK.
+
+See I told you I was taking it! – Attitudes of adolescents with asthma towards a device monitoring their inhaler use: Implications for future design
+Download bibtex file OK.
+
+The electron trap parameter extraction-based investigation of the relationship between charge trapping and activation energy in IGZO TFTs under positive bias temperature stress
+Download bibtex file OK.
+
+A delay-tolerant framework for integrated RSNs in IoT
+Download bibtex file OK.
+
+Big Data Logistics: A health-care Transport Capacity Sharing Model
+Download bibtex file OK.
+
+Spatial cumulative sum algorithm with big data analytics for climate change detection
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 8 seconds before executing next page
+
+Page: 500
+Hybrid reality-based user experience and evaluation of a context-aware smart home
+Download bibtex file OK.
+
+Towards an Optimized Scheme for Mobile Subscribers Based on Cloud Computing
+Download bibtex file OK.
+
+Building the wall: Addressing cybersecurity risks in medical devices in the U.S.A. and Australia
+Download bibtex file OK.
+
+Monitoring stress with a wrist device using context
+Download bibtex file OK.
+
+Process querying: Enabling business intelligence through query-based process analytics
+Download bibtex file OK.
+
+Cyber Physical Systems &amp; Public Utility in India: State of Art
+Download bibtex file OK.
+
+Combining machine-based and econometrics methods for policy analytics insights
+Download bibtex file OK.
+
+Smart City, Safety and Security
+Download bibtex file OK.
+
+The world, for free
+Download bibtex file OK.
+
+Big Data analytics and Computational Intelligence for Cyber–Physical Systems: Recent trends and state of the art applications
+Download bibtex file OK.
+
+Les nouvelles technologies de la communication au service de la santé
+Download bibtex file OK.
+
+The governance of smart mobility
+Download bibtex file OK.
+
+Innovation for creating a smart future
+Download bibtex file OK.
+
+Design, modelling, simulation and integration of cyber physical systems: Methods and applications
+Download bibtex file OK.
+
+Why DTMF masking is critical to payment security
+Download bibtex file OK.
+
+Performance Analysis of End-to-End Sensor-to-Cloud Personal Living Platform
+Download bibtex file OK.
+
+Energy efficiency in wireless sensor networks: A top-down survey
+Download bibtex file OK.
+
+GDPR: a milestone in convergence for cyber-security and compliance
+Download bibtex file OK.
+
+Service encounters, experiences and the customer journey: Defining the field and a call to expand our lens
+Download bibtex file OK.
+
+Modeling and automatic code generation for wireless sensor network applications using model-driven or business process approaches: A systematic mapping study
+Download bibtex file OK.
+
+Smart cyber society: Integration of capillary devices with high usability based on Cyber–Physical System
+Download bibtex file OK.
+
+Big Data Storage in the Cloud for Smart Environment Monitoring
+Download bibtex file OK.
+
+Revisiting Master’s Program Design in Computational Science:: Case of ITMO University
+Download bibtex file OK.
+
+Service innovation structure analysis for recognizing opportunities and difficulties of M2M businesses
+Download bibtex file OK.
+
+Circular economy strategies for mitigating critical material supply issues
+Download bibtex file OK.
+
+The necessity of the implementation of Privacy by Design in sectors where data protection concerns arise
+Download bibtex file OK.
+
+Enabling IoT platforms for social IoT applications: Vision, feature mapping, and challenges
+Download bibtex file OK.
+
+Bringing pervasive embedded networks to the service cloud: A lightweight middleware approach
+Download bibtex file OK.
+
+The usefulness and actual use of wearable devices among the elderly population
+Download bibtex file OK.
+
+Smart network node based on hybrid nanogenerator for self-powered multifunctional sensing
+Download bibtex file OK.
+
+Privacy management of patient physiological parameters
+Download bibtex file OK.
+
+Mobile edge computing, Fog et al.: A survey and analysis of security threats and challenges
+Download bibtex file OK.
+
+Wearables for independent living in older adults: Gait and falls
+Download bibtex file OK.
+
+Market adoption barriers of multi-stakeholder technology: Smart homes for the aging population
+Download bibtex file OK.
+
+A cyber risk scoring system for medical devices
+Download bibtex file OK.
+
+Choreography in the embedded systems domain: A systematic literature review
+Download bibtex file OK.
+
+A Privacy Preserved Data Mining Approach Based on k-Partite Graph Theory
+Download bibtex file OK.
+
+Machine-to-machine communications: Technologies and challenges
+Download bibtex file OK.
+
+Cyber Security Attacks on Smart Cities and Associated Mobile Technologies
+Download bibtex file OK.
+
+Evolutionary trend analysis of nanogenerator research based on a novel perspective of phased bibliographic coupling
+Download bibtex file OK.
+
+IoTDeM: An IoT Big Data-oriented MapReduce performance prediction extended model in multiple edge clouds
+Download bibtex file OK.
+
+Privacy-aware Big Data Analytics as a Service for Public Health Policies in Smart Cities
+Download bibtex file OK.
+
+Trends and seasonality extracting from Home Blood Pressure Monitoring readings
+Download bibtex file OK.
+
+Wearable anger-monitoring system
+Download bibtex file OK.
+
+Room temperature humidity sensors based on rGO/MoS2 hybrid composites synthesized by hydrothermal method
+Download bibtex file OK.
+
+A Cyber-physical System Architecture in Shop Floor for Intelligent Manufacturing
+Download bibtex file OK.
+
+Evaluating a Dynamic Keep-Alive Messaging Strategy for Mobile Pervasive Systems
+Download bibtex file OK.
+
+An ontology of and roadmap for mHealth research
+Download bibtex file OK.
+
+Planet of the things
+Download bibtex file OK.
+
+Evaluation of wearable immersive augmented reality technology in safety-critical systems
+Download bibtex file OK.
+
+Optimization of locations of diffusion spots in indoor optical wireless local area networks
+Download bibtex file OK.
+
+Will robots know us better than we know ourselves?
+Download bibtex file OK.
+
+Mobility in wireless sensor networks – Survey and proposal
+Download bibtex file OK.
+
+An intelligent cloud-based data processing broker for mobile e-health multimedia applications
+Download bibtex file OK.
+
+Digital literacy and knowledge societies: A grounded theory investigation of sustainable development
+Download bibtex file OK.
+
+Computational intelligence approaches for classification of medical data: State-of-the-art, future challenges and research directions
+Download bibtex file OK.
+
+Big data technologies and Management: What conceptual modeling can do
+Download bibtex file OK.
+
+Manufacturing-as-a-Service—From e-Work and Service-Oriented Architecture to the Cloud Manufacturing Paradigm
+Download bibtex file OK.
+
+Fog computing for vehicular Ad-hoc networks: paradigms, scenarios, and issues
+Download bibtex file OK.
+
+Decentralized manufacturing of cell and gene therapies: Overcoming challenges and identifying opportunities
+Download bibtex file OK.
+
+ViBR – Conceptualising a Virtual Big Room through the Framework of People, Processes and Technology
+Download bibtex file OK.
+
+The next wave of innovation—Review of smart cities intelligent operation systems
+Download bibtex file OK.
+
+DDoS goes mainstream: how headline-grabbing attacks could make this threat an organisation's biggest nightmare
+Download bibtex file OK.
+
+Wearable technologies for hand joints monitoring for rehabilitation: A survey
+Download bibtex file OK.
+
+Augmented reality for personalized nanomedicines
+Download bibtex file OK.
+
+Risk-based authentication: biometrics' brave new world
+Download bibtex file OK.
+
+Communication channel occupation and congestion in wireless sensor networks
+Download bibtex file OK.
+
+An Elliptic Curve-based Mutual Authentication Scheme for RFID Implant Systems
+Download bibtex file OK.
+
+Secure sensors data acquisition and communication protection in eHealthcare: Review on the state of the art
+Download bibtex file OK.
+
+Mobile and wearable devices in an open and universal system for remote patient monitoring
+Download bibtex file OK.
+
+How business intelligence maturity enabling hospital agility
+Download bibtex file OK.
+
+Wireless Heart Rate Monitoring System Using MQTT
+Download bibtex file OK.
+
+The innovation big picture: Including effectiveness dependencies, efficiency dependencies, and potential negative effects within the framing of new technologies
+Download bibtex file OK.
+
+A model for optimal service allocation in a smart environment
+Download bibtex file OK.
+
+How are you feeling?: A personalized methodology for predicting mental states from temporally observable physical and behavioral information
+Download bibtex file OK.
+
+A systematic mapping study on mobility mechanisms for cloud service provisioning in mobile cloud ecosystems
+Download bibtex file OK.
+
+Towards an Understanding of Cyber-physical Systems as Industrial Software-Product-Service Systems
+Download bibtex file OK.
+
+Care services provision in ambient assisted living
+Download bibtex file OK.
+
+Smart Health Care Monitoring Technologies to Improve Employee Performance in Manufacturing
+Download bibtex file OK.
+
+Validating a commercial device for continuous activity measurement in the older adult population for dementia management
+Download bibtex file OK.
+
+Is the smartwatch an IT product or a fashion product? A study on factors affecting the intention to use smartwatches
+Download bibtex file OK.
+
+Improving the efficiency and reliability of wearable based mobile eHealth applications
+Download bibtex file OK.
+
+A Survey on MAC Protocols for Duty-cycled Wireless Sensor Networks
+Download bibtex file OK.
+
+From data to value: A nine-factor framework for data-based value creation in information-intensive services
+Download bibtex file OK.
+
+Data science for building energy management: A review
+Download bibtex file OK.
+
+Selected design issues of the medical cyber-physical system for telemonitoring pregnancy at home
+Download bibtex file OK.
+
+Evolutionary radial basis function network for gestational diabetes data analytics
+Download bibtex file OK.
+
+Digital Object Memory Based Monitoring Solutions in Manufacturing Processes
+Download bibtex file OK.
+
+Creating high performance teamwork in organizations
+Download bibtex file OK.
+
+A systems approach to natural disaster resilience
+Download bibtex file OK.
+
+What seems to be the problem?—A study of connections between national contexts and regional e-health strategies
+Download bibtex file OK.
+
+XSACd—Cross-domain resource sharing &amp; access control for smart environments
+Download bibtex file OK.
+
+Classification and suitability of sensing technologies for activity recognition
+Download bibtex file OK.
+
+Ubiquitous clinic recommendation by predicting a patient’s preferences
+Download bibtex file OK.
+
+Techno-economic implications of the mass-market uptake of mobile data services: Requirements for next generation mobile networks
+Download bibtex file OK.
+
+Railway Assets: A Potential Domain for Big Data Analytics
+Download bibtex file OK.
+
+Identifying services for short-term load forecasting using data driven models in a Smart City platform
+Download bibtex file OK.
+
+Legal aspects of managing Big Data
+Download bibtex file OK.
+
+Effects of structure and oxygen flow rate on the photo-response of amorphous IGZO-based photodetector devices
+Download bibtex file OK.
+
+Open government data and the private sector: An empirical view on business models and value creation
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 9 seconds before executing next page
+
+Page: 600
+Open government data and the private sector: An empirical view on business models and value creation
+Download bibtex file OK.
+
+Dr. Eye: An Android Application to Calculate the Vision Acuity
+Download bibtex file OK.
+
+Enhancing reliability in Wireless Sensor Networks for adaptive river monitoring systems: Reflections on their long-term deployment in Brazil
+Download bibtex file OK.
+
+Industrial information integration—A literature review 2006–2015
+Download bibtex file OK.
+
+A two way authentication using bilinear mapping function for wireless sensor networks
+Download bibtex file OK.
+
+A survey of cognitive radio handoff schemes, challenges and issues for industrial wireless sensor networks (CR-IWSN)
+Download bibtex file OK.
+
+Towards remote monitoring of Parkinson’s disease tremor using wearable motion capture systems
+Download bibtex file OK.
+
+A Survey on Opportunistic Routing Protocols for Wireless Sensor Networks
+Download bibtex file OK.
+
+Review and analysis of networking challenges in cloud computing
+Download bibtex file OK.
+
+Perspectives of cervical cancer and screening practices among staff of a teaching hospital in South-South Nigeria
+Download bibtex file OK.
+
+Design of authentication protocol for wireless sensor network-based smart vehicular system
+Download bibtex file OK.
+
+Using Discrete Event Simulation to Model Attacker Interactions with Cyber and Physical Security Systems
+Download bibtex file OK.
+
+Applicability of superposition for responses of resistive sensors in a diluted mixed gas environment
+Download bibtex file OK.
+
+Metabolomics for the masses: The future of metabolomics in a personalized world
+Download bibtex file OK.
+
+Randomized Trial to Reduce Air Particle Levels in Homes of Smokers and Children
+Download bibtex file OK.
+
+Historical perspective: The pros and cons of conventional outcome measures in Parkinson's disease
+Download bibtex file OK.
+
+Cybersecurity and privacy in standards for smart grids – A comprehensive survey
+Download bibtex file OK.
+
+IEEE 802.15.4e: A survey
+Download bibtex file OK.
+
+Stark Assessment of Lifestyle Based Human Disorders Using Data Mining Based Learning Techniques
+Download bibtex file OK.
+
+Low-voltage C8-BTBT thin-film transistors for flexible electronics
+Download bibtex file OK.
+
+Towards gadget-free internet services: A roadmap of the Naked world
+Download bibtex file OK.
+
+What drives smartwatch purchase intention? Perspectives from hardware, software, design, and value
+Download bibtex file OK.
+
+Application of Acoustic Sensing Technology for Improving Building Energy Efficiency
+Download bibtex file OK.
+
+An anomaly analysis framework for database systems
+Download bibtex file OK.
+
+Aegis : Reliable Application Execution Over the Mobile Cloud
+Download bibtex file OK.
+
+Methodologies, principles and prospects of applying big data in safety science research
+Download bibtex file OK.
+
+A Fuzzy Logic Control in Adjustable Autonomy of a Multi-agent System for an Automated Elderly Movement Monitoring Application
+Download bibtex file OK.
+
+Personal Wellness: Complex and Elusive Product and Distributed Self-services
+Download bibtex file OK.
+
+Fisher’s linear discriminant ratio based threshold for moving human detection in thermal video
+Download bibtex file OK.
+
+When sensing goes pervasive
+Download bibtex file OK.
+
+Applications of wireless sensor networks for urban areas: A survey
+Download bibtex file OK.
+
+Mobile Diagnosis System with Emergency Telecare in Thailand (MOD-SET)
+Download bibtex file OK.
+
+Low-voltage subthreshold CMOS current mode circuits: Design and applications
+Download bibtex file OK.
+
+Saving energy in aggressive intrusion detection through dynamic latency sensitivity recognition
+Download bibtex file OK.
+
+Lateral-flow technology: From visual to instrumental
+Download bibtex file OK.
+
+Simulation as a cloud service for short-run high throughput industrial print production using a service broker architecture
+Download bibtex file OK.
+
+Energy conservation through smart homes in a smart city: A lesson for Singapore households
+Download bibtex file OK.
+
+Exploiting the Potential and Facing the Challenges of Mobile Devices: Application Examples
+Download bibtex file OK.
+
+Embedded Computing Technology for Highly-demanding Cyber-physical Systems
+Download bibtex file OK.
+
+Demystifying big data: Anatomy of big data developmental process
+Download bibtex file OK.
+
+Societal impacts of information and communications technology
+Download bibtex file OK.
+
+Expert or peer? Understanding the implications of virtual advisor identity on emergency rescuer empowerment in mobile psychological self-help services
+Download bibtex file OK.
+
+InfiniTime: Multi-sensor wearable bracelet with human body harvesting
+Download bibtex file OK.
+
+Risk driven engineering of Prognostics and Health Management systems in manufacturing
+Download bibtex file OK.
+
+iSENSE: Intelligent Sensor Monitoring Services with Integrated WSN Testbed
+Download bibtex file OK.
+
+A Case Study on Laboratory Information System
+Download bibtex file OK.
+
+Civic entrepreneurial ecosystems: Smart city emergence in Kansas City
+Download bibtex file OK.
+
+Systems &amp; Control for the future of humanity, research agenda: Current and future roles, impact and grand challenges
+Download bibtex file OK.
+
+Multi-scale Gaussian process experts for dynamic evolution prediction of complex systems
+Download bibtex file OK.
+
+Encryption-free Authentication and Integrity Protection in Body Area Networks through Physical Unclonable Functions
+Download bibtex file OK.
+
+Digital Technologies in Facility Management – The state of Practice and Research Challenges
+Download bibtex file OK.
+
+Multi-tier cloud infrastructure support for reliable global health awareness system
+Download bibtex file OK.
+
+The quantified self: a threat to enterprise security?
+Download bibtex file OK.
+
+Radio frequency identification technology
+Download bibtex file OK.
+
+A heuristic resource scheduling scheme in time-constrained networks
+Download bibtex file OK.
+
+“Service Encounter 2.0”: An investigation into the roles of technology, employees and customers
+Download bibtex file OK.
+
+ICT of the new wave of computing for sustainable urban forms: Their big data and context-aware augmented typologies and design concepts
+Download bibtex file OK.
+
+Soft computing-based localizations in wireless sensor networks
+Download bibtex file OK.
+
+High-resolution proximity sensor using flexible semi-transparent organic photo detector
+Download bibtex file OK.
+
+Retention and attrition in bariatric surgery research: an integrative review of the literature
+Download bibtex file OK.
+
+Additive manufacturing: A user's guide
+Download bibtex file OK.
+
+Urban robotics: Towards responsible innovations for our cities
+Download bibtex file OK.
+
+Cybersecurity education: evolution of the discipline and analysis of master programs
+Download bibtex file OK.
+
+S-InTime: A social cloud analytical service oriented system
+Download bibtex file OK.
+
+Big data reduction framework for value creation in sustainable enterprises
+Download bibtex file OK.
+
+Providing the full DDF link protection for bus-connected SIEPON based system architecture
+Download bibtex file OK.
+
+Simulation platform for cyber-security and vulnerability analysis of critical infrastructures
+Download bibtex file OK.
+
+Motion artifact removal based on periodical property for ECG monitoring with wearable systems
+Download bibtex file OK.
+
+A short history on pacemakers
+Download bibtex file OK.
+
+Empirical Studies on Product-Service Systems – A Systematic Literature Review
+Download bibtex file OK.
+
+Phatic systems in digital society
+Download bibtex file OK.
+
+A MAC protocol for reliable communication in low power body area networks
+Download bibtex file OK.
+
+A distributed authentication and authorization scheme for in-network big data sharing
+Download bibtex file OK.
+
+Report of the Second Asian Prostate Cancer (A-CaP) Study Meeting
+Download bibtex file OK.
+
+The Ambience of Ambient Intelligence: An Asian Approach to Ambient Systems?
+Download bibtex file OK.
+
+Building service-oriented Smart Infrastructures over Wireless Ad Hoc Sensor Networks: A middleware perspective
+Download bibtex file OK.
+
+The Internet of People (IoP): A new wave in pervasive mobile computing
+Download bibtex file OK.
+
+ECG encryption and identification based security solution on the Zynq SoC for connected health systems
+Download bibtex file OK.
+
+The effects of electrode impedance on receiver sensitivity in body channel communication
+Download bibtex file OK.
+
+A software reference architecture for semantic-aware Big Data systems
+Download bibtex file OK.
+
+The knowledge society's origins and current trajectory
+Download bibtex file OK.
+
+TCSLP: A trace cost based source location privacy protection scheme in WSNs for smart cities
+Download bibtex file OK.
+
+Industrial automation based on cyber-physical systems technologies: Prototype implementations and challenges
+Download bibtex file OK.
+
+On the protection of consumer genomic data in the Internet of Living Things
+Download bibtex file OK.
+
+An Intelligent RFID-based Electronic Anti-Counterfeit System (InRECS) for the Manufacturing Industry
+Download bibtex file OK.
+
+Assessment of socio-techno-economic factors affecting the market adoption and evolution of 5G networks: Evidence from the 5G-PPP CHARISMA project
+Download bibtex file OK.
+
+Impact of nanotechnology advances in ICT on sustainability and energy efficiency
+Download bibtex file OK.
+
+Multi-modal activity recognition from egocentric vision, semantic enrichment and lifelogging applications for the care of dementia
+Download bibtex file OK.
+
+European regulatory framework for person carrier robots
+Download bibtex file OK.
+
+Cyber-physical systems in manufacturing
+Download bibtex file OK.
+
+Empirical research methodologies and studies in Requirements Engineering: How far did we come?
+Download bibtex file OK.
+
+Quality attributes and quality models for ambient assisted living software systems: A systematic mapping
+Download bibtex file OK.
+
+Electrochemically engineered single Li-ion conducting solid polymer electrolyte on titania nanotubes for microbatteries
+Download bibtex file OK.
+
+Assessing the cost of deploying and maintaining indoor wireless sensor networks with RF-power harvesting properties
+Download bibtex file OK.
+
+Resistive behavior of Ni thin film on a cylindrical PET monofilament with temperature for wearable computing devices
+Download bibtex file OK.
+
+Smart sustainable cities of the future: An extensive interdisciplinary literature review
+Download bibtex file OK.
+
+Towards a Collaborative Filtering Framework for Recommendation in Museums: From Preference Elicitation to Group's Visits
+Download bibtex file OK.
+
+Comparative Analysis of Prominent Middleware Platforms in the Domain of Ambient Assisted Living (AAL) for an Older Adults with Dementia (OAwD) Scenario
+Download bibtex file OK.
+
+Design of an Early Warning System for Patients with Cardiovascular Diseases Under Mobile Environment
+Download bibtex file OK.
+
+Multi-mode standardisation: A critical review and a research agenda
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 6 seconds before executing next page
+
+Page: 700
+Global drivers, sustainable manufacturing and systems ergonomics
+Download bibtex file OK.
+
+Intelligent Autonomous Vehicles in digital supply chains: A framework for integrating innovations towards sustainable value networks
+Download bibtex file OK.
+
+Ontology-based context modeling in service-oriented computing: A systematic mapping
+Download bibtex file OK.
+
+A Smart Home Information Management Model for Device Interoperability Simulation
+Download bibtex file OK.
+
+The importance of the technologically able social innovators and entrepreneurs: A US national laboratory perspective
+Download bibtex file OK.
+
+BIM-enabled Power Consumption Data Management Platform for Rendering and Analysis of Energy Usage Patterns
+Download bibtex file OK.
+
+The Ecosystem of Services Around Smart Cities: An Exploratory Analysis
+Download bibtex file OK.
+
+Anticipation of converging technology areas — A refined approach for the identification of attractive fields of innovation
+Download bibtex file OK.
+
+Mobile Shopper Marketing: Key Issues, Current Insights, and Future Research Avenues
+Download bibtex file OK.
+
+Improving network formation in IEEE 802.15.4e DSME
+Download bibtex file OK.
+
+Strategic management of next-generation connected life: Focusing on smart key and car–home connectivity
+Download bibtex file OK.
+
+A review of experimental opportunities for molecular communication
+Download bibtex file OK.
+
+TeknoRoadmap, an approach for depicting emerging technologies
+Download bibtex file OK.
+
+Intelligent products: The grace experience
+Download bibtex file OK.
+
+Ten questions concerning future buildings beyond zero energy and carbon neutrality
+Download bibtex file OK.
+
+Understanding big data analytics capabilities in supply chain management: Unravelling the issues, challenges and implications for practice
+Download bibtex file OK.
+
+Towards a medical cyber-physical system for home telecare of high-risk pregnancy
+Download bibtex file OK.
+
+Cardiac Implantable Medical Devices forensics: Postmortem analysis of lethal attacks scenarios
+Download bibtex file OK.
+
+Rich contextual information for monitoring the elderly in an early stage of cognitive impairment
+Download bibtex file OK.
+
+Big data management in participatory sensing: Issues, trends and future directions
+Download bibtex file OK.
+
+WiSeN: A new sensor node for smart applications with wireless sensor networks
+Download bibtex file OK.
+
+ABE with improved auxiliary input for big data security
+Download bibtex file OK.
+
+Technology pillars in the architecture of future 5G mobile networks: NFV, MEC and SDN
+Download bibtex file OK.
+
+Trends and priority shifts in artificial intelligence technology invention: A global patent analysis
+Download bibtex file OK.
+
+PSS Design Process Models: Are They Sustainability-oriented?
+Download bibtex file OK.
+
+A similarity-aware encrypted deduplication scheme with flexible access control in the cloud
+Download bibtex file OK.
+
+Adaptive and technology-independent architecture for fault-tolerant distributed AAL solutions
+Download bibtex file OK.
+
+Bring your own finger – how mobile is bringing biometrics to consumers
+Download bibtex file OK.
+
+The changing face of a city government: A case study of Philly311
+Download bibtex file OK.
+
+Managing with Incomplete Inventory Information (i3)
+Download bibtex file OK.
+
+ICT adoption in road freight transport in Nigeria – A case study of the petroleum downstream sector
+Download bibtex file OK.
+
+Efficient dense labelling of human activity sequences from wearables using fully convolutional networks
+Download bibtex file OK.
+
+A dynamic model for the evolution of the next generation Internet: Implications for network policies
+Download bibtex file OK.
+
+Universal Intelligent Small Cell (UnISCell) for next generation cellular networks
+Download bibtex file OK.
+
+Information centric services in Smart Cities
+Download bibtex file OK.
+
+A bricolage perspective on service innovation
+Download bibtex file OK.
+
+Symmetric Matrix-based Predictive Classifier for Big Data computation and information sharing in Cloud
+Download bibtex file OK.
+
+A systems perspective on markets – Toward a research agenda
+Download bibtex file OK.
+
+Towards semantically linked multilingual corpus
+Download bibtex file OK.
+
+Posthumanism and Design
+Download bibtex file OK.
+
+A Conceptual Framework for Designing Informatics-based Services in Manufacturing Industries
+Download bibtex file OK.
+
+Exploring the Relationship between Systems Engineering and Software Engineering
+Download bibtex file OK.
+
+Ultrasonic Non-Destructive Testing (NDT) Using Wireless Sensor Networks
+Download bibtex file OK.
+
+Reflections on customers’ primary role in markets
+Download bibtex file OK.
+
+Microscale additive manufacturing and modeling of interdigitated capacitive touch sensors
+Download bibtex file OK.
+
+Technology management as a profession and the challenges ahead
+Download bibtex file OK.
+
+Smart Growth, Smart City and Density: In Search of The Appropriate Indicator for Residential Density in Indonesia
+Download bibtex file OK.
+
+Wireless power transfer system for a human motion energy harvester
+Download bibtex file OK.
+
+MIMU-Wear: Ontology-based sensor selection for real-world wearable activity recognition
+Download bibtex file OK.
+
+Robotics and law: Key legal and regulatory implications of the robotics age (part II of II)
+Download bibtex file OK.
+
+Promoting Creative Computing: origin, scope, research and applications
+Download bibtex file OK.
+
+A creative idea generation methodology by future envisioning from the user experience perspective
+Download bibtex file OK.
+
+Speed isn't everything: A multi-criteria analysis of the broadband consumer experience in the UK
+Download bibtex file OK.
+
+Challenges and current developments for Sensing, Smart and Sustainable Enterprise Systems
+Download bibtex file OK.
+
+Lightweight Attribute Based Encryption Scheme for Mobile Cloud assisted Cyber-Physical Systems
+Download bibtex file OK.
+
+Assessment of Standards for Inter-organizational Tracking Information Exchange in the Supply Chain
+Download bibtex file OK.
+
+Dynamic Adaptors to Support Model-Driven Interoperability and Enhance Sensing Enterprise Networks
+Download bibtex file OK.
+
+Energy efficient Nano Servers provisioning for Information Piece Delivery in a vehicular environment
+Download bibtex file OK.
+
+Time Series Classification using Deep Learning for Process Planning: A Case from the Process Industry
+Download bibtex file OK.
+
+‘Big data’, Hadoop and cloud computing in genomics
+Download bibtex file OK.
+
+Secure Group Communication in Wireless Sensor Networks: A survey
+Download bibtex file OK.
+
+Software-defined networking in cyber-physical systems: A survey
+Download bibtex file OK.
+
+A review of RFID technology and its managerial applications in different industries
+Download bibtex file OK.
+
+Medicinal chemistry in drug discovery in big pharma: past, present and future
+Download bibtex file OK.
+
+Investigating the role of intermediaries in adoption of public access outlets for delivery of e-Government services in developing countries: An empirical study
+Download bibtex file OK.
+
+SIMON: Assisted Mobility for Older and Impaired Users
+Download bibtex file OK.
+
+Improving the Utilization of AAL Devices through Semantic Web Technologies and Web of Things Concepts
+Download bibtex file OK.
+
+A Service Oriented Framework for Analysing Social Network Activities
+Download bibtex file OK.
+
+Efficient compressed sensing-based security approach for video surveillance application in wireless multimedia sensor networks
+Download bibtex file OK.
+
+Information security conscious care behaviour formation in organizations
+Download bibtex file OK.
+
+Cloud asset for urban flood control
+Download bibtex file OK.
+
+Market power, regulatory convergence, and the role of data in digital markets
+Download bibtex file OK.
+
+Forecasting of potential impacts of disruptive technology in promising technological areas: Elaborating the SIRS epidemic model in RFID technology
+Download bibtex file OK.
+
+Brain computer interfacing: Applications and challenges
+Download bibtex file OK.
+
+Conceptual framework for introducing incentive-based demand response programs for retail electricity markets
+Download bibtex file OK.
+
+Geometric Environment Modeling System
+Download bibtex file OK.
+
+Empirical validation of cyber-foraging architectural tactics for surrogate provisioning
+Download bibtex file OK.
+
+Formal verification approaches and standards in the cloud computing: A comprehensive and systematic review
+Download bibtex file OK.
+
+Unlocking value for a circular economy through 3D printing: A research agenda
+Download bibtex file OK.
+
+High-performance flexible lead-free nanocomposite piezoelectric nanogenerator for biomechanical energy harvesting and storage
+Download bibtex file OK.
+
+“How do you care for technology?” – Care professionals' experiences with assistive technology in care of the elderly
+Download bibtex file OK.
+
+Alternative futures: AmI scenarios and Minority Report
+Download bibtex file OK.
+
+Integrated Application of BIM and GIS: An Overview
+Download bibtex file OK.
+
+Development of real-time product cost measurement: A case study in a medium-sized manufacturing company
+Download bibtex file OK.
+
+Data-driven Weld Nugget Width Prediction with Decision Tree Algorithm
+Download bibtex file OK.
+
+Big data analytics and firm performance: Effects of dynamic capabilities
+Download bibtex file OK.
+
+Modeling and Processing Big Data of Power Transmission Grid Substation Using Neo4j
+Download bibtex file OK.
+
+Challenges and Benefits of Deploying Big Data Analytics in the Cloud for Business Intelligence
+Download bibtex file OK.
+
+RFID in the warehouse: A literature analysis (1995–2010) of its applications, benefits, challenges and future trends
+Download bibtex file OK.
+
+Robotics-assisted mass spectrometry assay platform enabled by open-source electronics
+Download bibtex file OK.
+
+Data quality assessment of maintenance reporting procedures
+Download bibtex file OK.
+
+A survey on fault tolerance in small and large scale wireless sensor networks
+Download bibtex file OK.
+
+On analyzing user location discovery methods in smart homes: A taxonomy and survey
+Download bibtex file OK.
+
+Development of an Ergonomics Checklist for the Evaluation of Medical Tablet Personal Computers
+Download bibtex file OK.
+
+Data Mining and Fusion Techniques for WSNs as a Source of the Big Data
+Download bibtex file OK.
+
+Cyber-Attacks – Trends, Patterns and Security Countermeasures
+Download bibtex file OK.
+
+Orchestration and analysis of decentralized workflows within heterogeneous networking infrastructures
+Download bibtex file OK.
+
+Remotely programmable architecture of a multi-purpose physiological recorder
+Download bibtex file OK.
+
+Managerial work in the realm of the digital universe: The role of the data triad
+Download bibtex file OK.
+
+A novel hybrid medium access control protocol for inter-M2M communications
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 5 seconds before executing next page
+
+Page: 800
+Wireless Health Monitoring System
+Download bibtex file OK.
+
+Mobile crowd sensing of human-like intelligence using social sensors: A survey
+Download bibtex file OK.
+
+The Technology Integration Model (TIM). Predicting the continued use of technology
+Download bibtex file OK.
+
+Local Processing to Achieve Anonymity in a Participatory Health e-Research System
+Download bibtex file OK.
+
+LiReK: A lightweight and real-time key establishment scheme for wearable embedded devices by gestures or motions
+Download bibtex file OK.
+
+Fostering a trans-disciplinary perspectives of service ecosystems
+Download bibtex file OK.
+
+Software security requirements management as an emerging cloud computing service
+Download bibtex file OK.
+
+Cyber–physical cloud-oriented multi-sensory smart home framework for elderly people: An energy efficiency perspective
+Download bibtex file OK.
+
+Economy driven content dissemination in Delay Tolerant Networks
+Download bibtex file OK.
+
+Energy-efficient hadoop for big data analytics and computing: A systematic review and research insights
+Download bibtex file OK.
+
+Smart utopia VS smart reality: Learning by experience from 10 smart city cases
+Download bibtex file OK.
+
+The long-term effects of undertaking a research course on clinical practice
+Download bibtex file OK.
+
+Benchmarking robustness of load forecasting models under data integrity attacks
+Download bibtex file OK.
+
+Companionship with smart home devices: The impact of social connectedness and interaction types on perceived social support and companionship in smart homes
+Download bibtex file OK.
+
+A survey of 5G technologies: Regulatory, standardization and industrial perspectives
+Download bibtex file OK.
+
+Supply chain product visibility: Methods, systems and impacts
+Download bibtex file OK.
+
+An improved harmony search based energy-efficient routing algorithm for wireless sensor networks
+Download bibtex file OK.
+
+Inference management, trust and obfuscation principles for quality of information in emerging pervasive environments
+Download bibtex file OK.
+
+An adaptive middleware design to support the dynamic interpretation of domain-specific models
+Download bibtex file OK.
+
+A robust biometrics based three-factor authentication scheme for Global Mobility Networks in smart city
+Download bibtex file OK.
+
+Context-aware intelligent service system for coal mine industry
+Download bibtex file OK.
+
+Successful aging: Advancing the science of physical independence in older adults
+Download bibtex file OK.
+
+‘Only a click away — DTC genetics for ancestry, health, love…and more: A view of the business and regulatory landscape’
+Download bibtex file OK.
+
+Looking ahead in pervasive computing: Challenges and opportunities in the era of cyber–physical convergence
+Download bibtex file OK.
+
+A machine learning system for automated whole-brain seizure detection
+Download bibtex file OK.
+
+From Problem to Solution: Developing a Personalized Smartphone Application for Recreational Runners following a Three-step Design Approach
+Download bibtex file OK.
+
+Performance evaluation of advanced manufacturing technologies: A De novo approach
+Download bibtex file OK.
+
+Reliable context-aware multi-attribute continuous authentication framework for secure energy utilization management in smart homes
+Download bibtex file OK.
+
+Cloud identity management: A survey on privacy strategies
+Download bibtex file OK.
+
+Critical analysis of Big Data challenges and analytical methods
+Download bibtex file OK.
+
+Technology designed to combat fakes in the global supply chain
+Download bibtex file OK.
+
+Addressing the Smart Systems design challenge: The SMAC platform
+Download bibtex file OK.
+
+Strengthening advanced manufacturing innovation ecosystems: The case of Massachusetts
+Download bibtex file OK.
+
+Smart cities: A conjuncture of four forces
+Download bibtex file OK.
+
+Ubiquitous Learning: A Systematic Review
+Download bibtex file OK.
+
+Robust Cyber–Physical Systems: Concept, models, and implementation
+Download bibtex file OK.
+
+A cross-national comparison of perceived strategic importance of RFID for CIOs in Germany and Italy
+Download bibtex file OK.
+
+From MANET to people-centric networking: Milestones and open research challenges
+Download bibtex file OK.
+
+Multifirm models of cybersecurity investment competition vs. cooperation and network vulnerability
+Download bibtex file OK.
+
+Bioelectrocatalytic systems for health applications
+Download bibtex file OK.
+
+A comprehensive survey of Network Function Virtualization
+Download bibtex file OK.
+
+Big Data technologies: A survey
+Download bibtex file OK.
+
+Design of a provably secure biometrics-based multi-cloud-server authentication scheme
+Download bibtex file OK.
+
+A context-aware collaborative model for smartphone energy efficiency over 5G wireless networks
+Download bibtex file OK.
+
+Design and Development of a Digital Life Logging System for Management of Lifelong Learning Experiences
+Download bibtex file OK.
+
+How ‘big data’ can make big impact: Findings from a systematic review and a longitudinal case study
+Download bibtex file OK.
+
+European sectoral innovation foresight: Identifying emerging cross-sectoral patterns and policy issues
+Download bibtex file OK.
+
+Smart City Logistics on Cloud Computing Model
+Download bibtex file OK.
+
+A state-of the-art survey &amp; testbed of fuzzy AHP (FAHP) applications
+Download bibtex file OK.
+
+FADS: Circular/Spherical Sector based Forwarding Area Division and Adaptive Forwarding Area Selection routing protocol in WSNs
+Download bibtex file OK.
+
+Coordinating the interruption of assembly workers in manufacturing
+Download bibtex file OK.
+
+E-santé et m-santé: état des lieux en 2014 et apports potentiels en oncologie
+Download bibtex file OK.
+
+Analysis and Classification of Barriers and Critical Success Factors for Implementing a Cloud Data Governance Strategy
+Download bibtex file OK.
+
+Cuckoo search-designated fractal interpolation functions with winner combination for estimating missing values in time series
+Download bibtex file OK.
+
+A robust human activity recognition system using smartphone sensors and deep learning
+Download bibtex file OK.
+
+EMR in rheumatology: Has its time come for India?
+Download bibtex file OK.
+
+Technologies and challenges in developing Machine-to-Machine applications: A survey
+Download bibtex file OK.
+
+A cloud-based architecture for emergency management and first responders localization in smart city environments
+Download bibtex file OK.
+
+An efficient hybrid algorithm for balancing the load of wireless local area network
+Download bibtex file OK.
+
+Modeling and performance evaluation of security attacks on opportunistic routing protocols for multihop wireless networks
+Download bibtex file OK.
+
+Detecting physical activity within lifelogs towards preventing obesity and aiding ambient assisted living
+Download bibtex file OK.
+
+Influence analysis in social networks: A survey
+Download bibtex file OK.
+
+I3WSN: Industrial Intelligent Wireless Sensor Networks for indoor environments
+Download bibtex file OK.
+
+Computational intelligence in control
+Download bibtex file OK.
+
+China in Asia
+Download bibtex file OK.
+
+Hybrid approach for selective delivery of information streams in data-intensive monitoring systems
+Download bibtex file OK.
+
+Hybrid privacy-preserving clinical decision support system in fog–cloud computing
+Download bibtex file OK.
+
+Advances on localization techniques for wireless sensor networks: A survey
+Download bibtex file OK.
+
+Spontaneous Social Network: toward dynamic virtual communities based on context-aware computing
+Download bibtex file OK.
+
+Event-based failure prediction in distributed business processes
+Download bibtex file OK.
+
+Energy-efficient scheduling and grouping for machine-type communications over cellular networks
+Download bibtex file OK.
+
+The rise of “big data” on cloud computing: Review and open research issues
+Download bibtex file OK.
+
+Cyber-physical systems for temporary structure monitoring
+Download bibtex file OK.
+
+Raspberry Pi assisted face recognition framework for enhanced law-enforcement services in smart cities
+Download bibtex file OK.
+
+A privacy-preserving sensory data sharing scheme in Internet of Vehicles
+Download bibtex file OK.
+
+A facial expression recognition system using robust face features from depth videos and deep learning
+Download bibtex file OK.
+
+A hybrid solution for privacy preserving medical data sharing in the cloud environment
+Download bibtex file OK.
+
+On the social shaping dimensions of smart sustainable cities: A study in science, technology, and society
+Download bibtex file OK.
+
+Context-awareness and the smart grid: Requirements and challenges
+Download bibtex file OK.
+
+The future and social impact of Big Data Analytics in Supply Chain Management: Results from a Delphi study
+Download bibtex file OK.
+
+Institutionalization of international university research ventures
+Download bibtex file OK.
+
+Knowledge sharing dynamics in service suppliers' involvement for servitization of manufacturing companies
+Download bibtex file OK.
+
+Energy-aware collaborative sensing for multiple applications in mobile cloud computing
+Download bibtex file OK.
+
+Efficient multiple incremental computation for Kernel Ridge Regression with Bayesian uncertainty modeling
+Download bibtex file OK.
+
+Diversity-aware retrieval of medical records
+Download bibtex file OK.
+
+Futures of privacy protection: A framework for creating scenarios of institutional change
+Download bibtex file OK.
+
+Energy consumption optimization for green Device-to-Device multimedia communications
+Download bibtex file OK.
+
+A cognitive robotic ecology approach to self-configuring and evolving AAL systems
+Download bibtex file OK.
+
+Energy-efficient active tag searching in large scale RFID systems
+Download bibtex file OK.
+
+Open governance systems: Doing more with more
+Download bibtex file OK.
+
+Past and future of software architectural decisions – A systematic mapping study
+Download bibtex file OK.
+
+Telecommunications at the crossroads in India
+Download bibtex file OK.
+
+Managing default risk under trade credit: Who should implement Big-Data analytics in supply chains?
+Download bibtex file OK.
+
+New algorithms for processing time-series big EEG data within mobile health monitoring systems
+Download bibtex file OK.
+
+From concept to implementation: The development of the emerging cloud computing industry in China
+Download bibtex file OK.
+
+Online personal risk detection based on behavioural and physiological patterns
+Download bibtex file OK.
+
+Practical-oriented protocols for privacy-preserving outsourced big data analysis: Challenges and future research directions
+Download bibtex file OK.
+
+QoS in IEEE 802.11-based wireless networks: A contemporary review
+Download bibtex file OK.
+
+Sustaining interoperability of networked liquid-sensing enterprises: A complex systems perspective
+Download bibtex file OK.
+
+A comprehensive survey of modern symmetric cryptographic solutions for resource constrained environments
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 7 seconds before executing next page
+
+Page: 900
+Expanded cloud plumes hiding Big Data ecosystem
+Download bibtex file OK.
+
+Named Data Networking: A survey
+Download bibtex file OK.
+
+Beyond ubiquitous computing: The Malaysian HoneyBee project for Innovative Digital Economy
+Download bibtex file OK.
+
+Simultaneous wireless information and power transfer for AF relaying nanonetworks in the Terahertz Band
+Download bibtex file OK.
+
+Congestion control mechanisms in wireless sensor networks: A survey
+Download bibtex file OK.
+
+Power-line communications for smart grid: Progress, challenges, opportunities and status
+Download bibtex file OK.
+
+Learning from class-imbalanced data: Review of methods and applications
+Download bibtex file OK.
+
+Ontological user modelling and semantic rule-based reasoning for personalisation of Help-On-Demand services in pervasive environments
+Download bibtex file OK.
+
+Reviving Vibration Energy Harvesting and Self-Powered Sensing by a Triboelectric Nanogenerator
+Download bibtex file OK.
+
+Survey and systematic mapping of industrial Wireless Sensor Networks
+Download bibtex file OK.
+
+Interoperability evaluation models: A systematic review
+Download bibtex file OK.
+
+Testbeds for ubiquitous robotics: A survey
+Download bibtex file OK.
+
+Balancing noise sensitivity, response latency, and posture accuracy for a computer-assisted canine posture training system
+Download bibtex file OK.
+
+aWESoME: A web service middleware for ambient intelligence
+Download bibtex file OK.
+
+Why research may no longer be the same: About the territorial scope of the New Data Protection Regulation
+Download bibtex file OK.
+
+Strategic value of RFID in supply chain management
+Download bibtex file OK.
+
+Emergence of cooperation in congested road networks using ICT and future and emerging technologies: A game-based review
+Download bibtex file OK.
+
+TOLA: Topic-oriented learning assistance based on cyber-physical system and big data
+Download bibtex file OK.
+
+Low-cost conductometric transducers for use in thin polymer film chemical sensors
+Download bibtex file OK.
+
+A methodology to estimate the costs of data regulations
+Download bibtex file OK.
+
+Single- and multi-source battery-less power management circuits for piezoelectric energy harvesting systems
+Download bibtex file OK.
+
+Emotion recognition using mobile phones
+Download bibtex file OK.
+
+Modeling the information completeness of object tracking systems
+Download bibtex file OK.
+
+A survey of applications and requirements of unique identification systems and RFID techniques
+Download bibtex file OK.
+
+Cyber-physical vulnerabilities in additive manufacturing systems: A case study attack on the .STL file with human subjects
+Download bibtex file OK.
+
+Anonymous network coexistence with slotted wireless channel access
+Download bibtex file OK.
+
+Influence of mechanism of patient-accessible hospital information system implementation on doctor–patient relationships: A service fairness perspective
+Download bibtex file OK.
+
+Securing native XML database-driven web applications from XQuery injection vulnerabilities
+Download bibtex file OK.
+
+Routing on large scale mobile ad hoc networks using bloom filters
+Download bibtex file OK.
+
+LTE-based humanoid robotics system
+Download bibtex file OK.
+
+Product intelligence in industrial control: Theory and practice
+Download bibtex file OK.
+
+Critical review on establishment and availability of impurity and degradation product reference standards, challenges faced by the users, recent developments, and trends
+Download bibtex file OK.
+
+A Foundational Framework for Smart Sustainable City Development: Theoretical, Disciplinary, and Discursive Dimensions and Their Synergies
+Download bibtex file OK.
+
+Geometrical kinematic modeling on human motion using method of multi-sensor fusion
+Download bibtex file OK.
+
+Device free localization technology for human detection and counting with RF sensor networks: A review
+Download bibtex file OK.
+
+Regulating big data. The guidelines of the Council of Europe in the context of the European data protection framework
+Download bibtex file OK.
+
+Embedded devices for supply chain applications: Towards hardware integration of disparate technologies
+Download bibtex file OK.
+
+Computational Intelligence in Control António E Ruano1
+Download bibtex file OK.
+
+EIR: Edge-aware inter-domain routing protocol for the future mobile internet
+Download bibtex file OK.
+
+Big data analytics for wireless and wired network design: A survey
+Download bibtex file OK.
+
+Data mining applications in accounting: A review of the literature and organizing framework
+Download bibtex file OK.
+
+Literature review of deteriorating inventory models by key topics from 2012 to 2015
+Download bibtex file OK.
+
+A packet priority intimation-based data transmission for congestion free traffic management in wireless sensor networks
+Download bibtex file OK.
+
+Design, management and control of demanufacturing and remanufacturing systems
+Download bibtex file OK.
+
+BodyCloud: A SaaS approach for community Body Sensor Networks
+Download bibtex file OK.
+
+Naming and name resolution in the future internet: Introducing the NovaGenesis approach
+Download bibtex file OK.
+
+Towards collusion-attack-resilient group key management using one-way function tree
+Download bibtex file OK.
+
+Singling out people without knowing their names – Behavioural targeting, pseudonymous data, and the new Data Protection Regulation
+Download bibtex file OK.
+
+A neuro-advertising property video recommendation system
+Download bibtex file OK.
+
+Monitoring self-adaptive applications within edge computing frameworks: A state-of-the-art review
+Download bibtex file OK.
+
+IT outsourcing research from 1992 to 2013: A literature review based on main path analysis
+Download bibtex file OK.
+
+Cost efficient scheduling of MapReduce applications on public clouds
+Download bibtex file OK.
+
+Graphene and its sensor-based applications: A review
+Download bibtex file OK.
+
+Privacy-preserving personal data operation on mobile cloud—Chances and challenges over advanced persistent threat
+Download bibtex file OK.
+
+MidSHM: A Middleware for WSN-based SHM Application using Service-Oriented Architecture
+Download bibtex file OK.
+
+Towards energy-efficient task scheduling on smartphones in mobile crowd sensing systems
+Download bibtex file OK.
+
+Selective disclosure and yoking-proof based privacy-preserving authentication scheme for cloud assisted wearable devices
+Download bibtex file OK.
+
+Outlier detection approaches for wireless sensor networks: A survey
+Download bibtex file OK.
+
+Towards a Big Data system disaster recovery in a Private Cloud
+Download bibtex file OK.
+
+Modelling privacy-aware trust negotiations
+Download bibtex file OK.
+
+A secure chaotic map-based remote authentication scheme for telecare medicine information systems
+Download bibtex file OK.
+
+Managing mobile cloud computing considering objective and subjective perspectives
+Download bibtex file OK.
+
+Context-aware collect data with energy efficient in Cyber–physical cloud systems
+Download bibtex file OK.
+
+Data exfiltration: A review of external attack vectors and countermeasures
+Download bibtex file OK.
+
+Policy making 2.0: From theory to practice
+Download bibtex file OK.
+
+Credible and energy-aware participant selection with limited task budget for mobile crowd sensing
+Download bibtex file OK.
+
+Terahertz band: Next frontier for wireless communications
+Download bibtex file OK.
+
+Appraising the impact and role of platform models and Government as a Platform (GaaP) in UK Government public service reform: Towards a Platform Assessment Framework (PAF)
+Download bibtex file OK.
+
+Energy and spectrum-aware MAC protocol for perpetual wireless nanosensor networks in the Terahertz Band
+Download bibtex file OK.
+
+A model to compare cloud and non-cloud storage of Big Data
+Download bibtex file OK.
+
+Comparing the cost-efficiency of CoAP and HTTP in Web of Things applications
+Download bibtex file OK.
+
+Real-time risk monitoring in business processes: A sensor-based approach
+Download bibtex file OK.
+
+A learning-based measurement framework for traffic matrix inference in software defined networks
+Download bibtex file OK.
+
+Improving PLS–RFE based gene selection for microarray data classification
+Download bibtex file OK.
+
+Adaptive parallel Louvain community detection on a multicore platform
+Download bibtex file OK.
+
+ASA: Against statistical attacks for privacy-aware users in Location Based Service
+Download bibtex file OK.
+
+A new two-server authentication and key agreement protocol for accessing secure cloud services
+Download bibtex file OK.
+
+Wrapper-based gene selection with Markov blanket
+Download bibtex file OK.
+
+A novel flexible pressure sensor array for depth information of radial artery
+Download bibtex file OK.
+
+Scalable distributed control plane for On-line social networks support cognitive neural computing in software defined networks
+Download bibtex file OK.
+
+A social-based watchdog system to detect selfish nodes in opportunistic mobile networks
+Download bibtex file OK.
+
+Collaborative analysis model for trending images on social networks
+Download bibtex file OK.
+
+Personalized location prediction for group travellers from spatial–temporal trajectories
+Download bibtex file OK.
+
+ROAR: A QoS-oriented modeling framework for automated cloud resource allocation and optimization
+Download bibtex file OK.
+
+Heartbeat classification using disease-specific feature selection
+Download bibtex file OK.
+
+Privacy-aware contextual localization using network traffic analysis
+Download bibtex file OK.
+
+Distance metric learning for soft subspace clustering in composite kernel space
+Download bibtex file OK.
+
+Predictive analytics can facilitate proactive property vacancy policies for cities
+Download bibtex file OK.
+
+A novel pre-cache schema for high performance Android system
+Download bibtex file OK.
+
+An FPGA-based multiprocessor-architecture for intelligent environments
+Download bibtex file OK.
+
+SPECO: Stochastic Perturbation based Clock tree Optimization considering temperature uncertainty
+Download bibtex file OK.
+
+Iceberg Clique queries in large graphs
+Download bibtex file OK.
+
+An efficient key agreement protocol for Sybil-precaution in online social networks
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_AND_Healthcare.bib saved successfully.
+
+Wait for 5 seconds before executing next page
+
+Page: 1000
