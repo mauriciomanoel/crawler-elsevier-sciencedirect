@@ -1,0 +1,143 @@
+Page: 0
+https://www.sciencedirect.com/search?qs=%28%22healthcare+IoT%22+OR+%22health+IoT%22+OR+%22healthIoT%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA&offset=0
+SRTS : A Self-Recoverable Time Synchronization for sensor networks of healthcare IoT
+Download bibtex file OK.
+
+Ontology-based system for patient monitoring with connected objects
+Download bibtex file OK.
+
+Lightweight distributed secure data management system for health internet of things
+Download bibtex file OK.
+
+Exploiting smart e-Health gateways at the edge of healthcare Internet-of-Things: A fog computing approach
+Download bibtex file OK.
+
+Privacy-preserving fusion of IoT and big data for e-health
+Download bibtex file OK.
+
+Security and privacy mechanism for health internet of things
+Download bibtex file OK.
+
+A multi-criteria approach toward discovering killer IoT application in Korea
+Download bibtex file OK.
+
+Cloud-centric IoT based disease diagnosis healthcare framework
+Download bibtex file OK.
+
+End-to-end security scheme for mobility enabled healthcare Internet of Things
+Download bibtex file OK.
+
+Geoblood: A Web Based Tool for Geo-analysis of Biological Data
+Download bibtex file OK.
+
+Privacy-preserving smart IoT-based healthcare big data storage and self-adaptive access control system
+Download bibtex file OK.
+
+I’m in! Towards participatory healthcare of elderly through IOT.
+Download bibtex file OK.
+
+Cloud-assisted Industrial Internet of Things (IIoT) – Enabled framework for health monitoring
+Download bibtex file OK.
+
+Towards fog-driven IoT eHealth: Promises and challenges of IoT in medicine and healthcare
+Download bibtex file OK.
+
+Privacy management of patient physiological parameters
+Download bibtex file OK.
+
+Interest-aware energy collection &amp; resource management in machine to machine communications
+Download bibtex file OK.
+
+Advanced Virtual Reality Applications and Intelligent Agents for Construction Process Optimisation and Defect Prevention
+Download bibtex file OK.
+
+Energy efficient wearable sensor node for IoT-based fall detection systems
+Download bibtex file OK.
+
+Dynamic power management and adaptive packet size selection for IoT in e-Healthcare
+Download bibtex file OK.
+
+The rise of ransomware and emerging security challenges in the Internet of Things
+Download bibtex file OK.
+
+A task-efficient sink node based on embedded multi-core soC for Internet of Things
+Download bibtex file OK.
+
+An intelligent framework for workouts in gymnasium: M-Health perspective
+Download bibtex file OK.
+
+“IoT FOR ENVIRONMENTAL VARIABLES IN URBAN AREAS”
+Download bibtex file OK.
+
+Interoperability as a Property of Ubiquitous Healthcare Systems
+Download bibtex file OK.
+
+The internet of things in healthcare: An overview
+Download bibtex file OK.
+
+The Internet of Things as an accelerator of advancement of broadband networks: A case of Thailand
+Download bibtex file OK.
+
+Advanced internet of things for personalised healthcare systems: A survey
+Download bibtex file OK.
+
+Disruption of Things: A Model to Facilitate Adoption of IoT-based Innovations by the Urban Poor
+Download bibtex file OK.
+
+Service composition for IP smart object using realtime Web protocols: Concept and research challenges
+Download bibtex file OK.
+
+COLLECT: COLLaborativE ConText-aware service oriented architecture for intelligent decision-making in the Internet of Things
+Download bibtex file OK.
+
+Improving the efficiency and reliability of wearable based mobile eHealth applications
+Download bibtex file OK.
+
+Type-2 fuzzy ontology–aided recommendation systems for IoT–based healthcare
+Download bibtex file OK.
+
+Semantic interoperability in the Internet of Things: An overview from the INTER-IoT perspective
+Download bibtex file OK.
+
+A Web Platform for Interconnecting Body Sensors and Improving Health Care
+Download bibtex file OK.
+
+Health Internet of Things: Metrics and methods for efficient data transfer
+Download bibtex file OK.
+
+Opportunities for enhanced lean construction management using Internet of Things standards
+Download bibtex file OK.
+
+A survey of routing and data dissemination in Delay Tolerant Networks
+Download bibtex file OK.
+
+A comprehensive health assessment framework to facilitate IoT-assisted smart workouts: A predictive healthcare perspective
+Download bibtex file OK.
+
+A survey on Internet of Things architectures
+Download bibtex file OK.
+
+Mojave toxin affects fusion of myoblasts and viability of myotubes in cell cultures
+Download bibtex file OK.
+
+Applications of wireless sensor networks for urban areas: A survey
+Download bibtex file OK.
+
+Named Data Networking: A survey
+Download bibtex file OK.
+
+The influence of dust inhalation upon the incidence of phthisis
+Download bibtex file OK.
+
+Industrial information integration—A literature review 2006–2015
+Download bibtex file OK.
+
+Towards energy-aware cloud-oriented cyber-physical therapy system
+Download bibtex file OK.
+
+File bibtex/healthcare_IoT_OR_health_IoT_OR_healthIoT.bib saved successfully.
+
+Wait for 9 seconds before executing next page
+
+Page: 100
+https://www.sciencedirect.com/search?qs=%28%22healthcare+IoT%22+OR+%22health+IoT%22+OR+%22healthIoT%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA&offset=100
