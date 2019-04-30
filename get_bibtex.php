@@ -6,12 +6,13 @@
     });
     
     $break_line         = "<br>";
-    $query_string       = urlencode(trim(@$_GET['query']));
+    $query_string       = rawurlencode(trim(@$_GET['query']));
     $file_name          = trim(@$_GET['query']);
     $offset             = (int) @$_GET['offset'];
     $results            = (int) @$_GET['results'];
     $page               = (int) @$_GET['page'];
     
+    //var_dump($query_string); exit;
     define('BREAK_LINE', $break_line);
 
     try {
