@@ -12,7 +12,6 @@
     $results            = (int) @$_GET['results'];
     $page               = (int) @$_GET['page'];
     
-    //var_dump($query_string); exit;
     define('BREAK_LINE', $break_line);
 
     try {

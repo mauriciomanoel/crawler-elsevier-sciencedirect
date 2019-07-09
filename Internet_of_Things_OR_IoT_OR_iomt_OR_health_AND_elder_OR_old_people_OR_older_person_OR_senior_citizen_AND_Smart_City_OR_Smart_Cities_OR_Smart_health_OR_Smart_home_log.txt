@@ -1,0 +1,126 @@
+Page: 0
+https://www.sciencedirect.com/search/api?qs=%28%22Internet%20of%20Things%22%20OR%20%22IoT%22%20OR%20%22iomt%22%20OR%20%22%2Ahealth%2A%22%29%20AND%20%28%22%2Aelder%2A%22%20OR%20%22old%20people%22%20OR%20%22older%20person%22%20OR%20%22senior%20citizen%22%29%20AND%20%28%22Smart%20City%22%20OR%20%22Smart%20Cities%22%20OR%20%22Smart%20health%22%20OR%20%22Smart%20home%2A%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA%2CABS&offset=0
+Machine learning in the <em>Internet</em> of <em>Things</em>: Designed techniques for <em>smart</em> <em>cities</em>
+PDS: Deduce <em>elder</em> privacy from <em>smart</em> homes
+Research investigations on the use or non-use of hearing aids in the <em>smart</em> <em>cities</em>
+Using Augmented Reality and <em>Internet</em> of <em>Things</em> to improve accessibility of <em>people</em> with motor disabilities in the context of <em>Smart</em> <em>Cities</em>
+Towards fog-driven <em>IoT</em> eHealth: Promises and challenges of <em>IoT</em> in medicine and healthcare
+The <em>Internet</em> of <em>Things</em> as an accelerator of advancement of broadband networks: A case of Thailand
+An edge-based platform for dynamic <em>Smart</em> <em>City</em> applications
+Potential pitfalls in the development of <em>smart</em> <em>cities</em> and mitigation measures: An exploratory study
+<em>Smart</em> <em>cities</em> with big data: Reference models, challenges, and considerations
+A critical analysis of an <em>IoT</em>—aware AAL system for elderly monitoring
+<em>Internet</em> of <em>things</em>-based real-time model study on e-healthcare: Device, message service and dew computing
+Towards decentralized <em>IoT</em> security enhancement: A blockchain approach
+SEIRA: An effective algorithm for <em>IoT</em> resource allocation problem
+“More than just a library”: Public libraries in the ‘<em>smart</em> <em>city</em>’
+<em>Health</em> and emergency-care platform for the elderly and disabled <em>people</em> in the <em>Smart</em> <em>City</em>
+The “Smartstone”: using smartphones as a telehealth gateway for <em>senior</em> <em>citizens</em>
+Building <em>smart</em> <em>cities</em>, the just way. A critical review of “<em>smart</em>” and “just” initiatives in Bristol, UK
+The alignment of University curricula with the building of a <em>Smart</em> <em>City</em>: A case study from Barcelona
+Flexible <em>IoT</em> security middleware for end-to-end cloud–fog communication
+System for monitoring and supporting the treatment of sleep apnea using <em>IoT</em> and big data
+<em>Smart</em> <em>health</em>: Big data enabled <em>health</em> paradigm within <em>smart</em> <em>cities</em>
+Here there be dragons, a pre-roadmap construct for <em>IoT</em> service infrastructure
+Cyber security challenges in <em>Smart</em> <em>Cities</em>: Safety, security and privacy
+<em>Smart</em> <em>cities</em> in the 21st century
+GeoHumanities, GIScience and <em>Smart</em> <em>City</em> <ce:italic>Lifeworld</ce:italic> approaches to geography and the new human condition
+Lessons in urban monitoring taken from sustainable and livable <em>cities</em> to better address the <em>Smart</em> <em>Cities</em> initiative
+Energy efficient fog-assisted <em>IoT</em> system for monitoring diabetic patients with cardiovascular disease
+Frameworks for <em>citizens</em> participation in planning: From conversational to <em>smart</em> tools
+Biometric data on the edge for secure, <em>smart</em> and user tailored access to cloud services
+Potentials, trends, and prospects in edge technologies: Fog, cloudlet, mobile edge, and micro data centers
+Energy conservation through <em>smart</em> homes in a <em>smart</em> <em>city</em>: A lesson for Singapore households
+An intelligent healthcare system for detection and classification to discriminate vocal fold disorders
+The role of Information and Communication Technologies in healthcare: taxonomies, perspectives, and challenges
+Reprint of “Mitigating risks of perishable products in the cyber-physical systems based on the extended MRP model”
+Mitigating risks of perishable products in the cyber-physical systems based on the extended MRP model
+Network State Conservation in Dynamic Spectrum Access: the IEEE 802.11 DCF Case
+Reconsidering human dignity in the new era
+Innovation for creating a <em>smart</em> future
+Global drivers, sustainable manufacturing and systems ergonomics
+Living labs and vacancy in the neoliberal <em>city</em>
+The landscape of <em>smart</em> aging: Topics, applications, and agenda
+Healthcare big data processing mechanisms: The role of cloud computing
+Transdisciplinary forward-looking agenda setting for age-friendly, human centered <em>cities</em>
+Governing Bangkok's <em>city</em> food system: Engaging multi-stakeholders for <em>smart</em>, sustainable and inclusive growth
+A zero-watermarking algorithm for privacy protection in biomedical signals
+Achieving the SDGs: Evaluating indicators to be used to benchmark and monitor progress towards creating healthy and sustainable <em>cities</em>
+Optimal Allocation of Public Service Centres in the Central Places of Functional Regions
+Urban production – A socially sustainable factory concept to overcome shortcomings of qualified workers in <em>smart</em> SMEs
+The urban sustainable development goal: Indicators, complexity and the politics of measuring <em>cities</em>
+Promoting ICT innovations for the ageing population in Japan
+Co-benefits approach: Opportunities for implementing sponge <em>city</em> and urban heat island mitigation
+A comparison of selected Western and Chinese <em>smart</em> governance: The application of ICT in governmental management, participation and collaboration
+Performance evaluation of ambient services by combining robotic frameworks and a <em>smart</em> environment platform
+<em>Smart</em> cyber society: Integration of capillary devices with high usability based on Cyber–Physical System
+European <em>smart</em> home market development: Public views on technical and economic aspects across the United Kingdom, Germany and Italy
+Towards modern sustainable <em>cities</em>: Review of sustainability principles and trends
+A systems approach to natural disaster resilience
+Autonomous vehicles: theoretical and practical challenges
+Sensor virtualization Middleware design for Ambient Assisted Living based on the Priority packet processing
+Assessing the state of physical infrastructure in progressive urbanization strategy: SAP-LAP analysis
+Applications of wireless sensor networks for urban areas: A survey
+A <em>smart</em> system to manage the context evolution in the Cultural Heritage domain
+Of Cyberliberation and Forbidden Fornication: Hidden Transcripts of Autonomous Mobility in Finland
+How trust can drive forward the user acceptance to the technology? In-vehicle technology for autonomous vehicle
+How Decarbonization, Digitalization and Decentralization are changing key power infrastructures
+Japan's post-Fukushima reconstruction: A case study for implementation of sustainable energy technologies
+Urban sustainability education: Challenges and pedagogical experiments
+Technology challenges to healthcare service innovation in aging Asia: Case of value co-creation in emergency medical support system
+Engineering Future <em>Internet</em> applications: The <ce:small-caps>Prime</ce:small-caps> approach
+Understanding sustainable accessibility in urban planning: Themes of consensus, themes of tension
+Privacy-preserving governmental data publishing: A fog-computing-based differential privacy approach
+A Survey of Big Data Analytics in Healthcare and Government
+On the verge of change: Maverick innovation with mobility scooters
+A good-governance framework for urban management
+Oral presentations
+Online public services usage and the elderly: Assessing determinants of technology readiness in Japan and the UK
+Automated vehicles and the <em>city</em> of tomorrow: A backcasting approach
+Explore spatiotemporal and demographic characteristics of human mobility via Twitter: A case study of Chicago
+Should we screen for cognitive decline and dementia?
+The Zero Energy concept: making the whole greater than the sum of the parts to meet the Paris Climate Agreement's objectives
+AHP-based Approach for Evaluating Ergonomic Criteria
+Rebuilding women's livelihoods strategies at the <em>city</em> fringe: Agency, spatial practices, and access to transportation from Semmencherry, Chennai
+TABSAOND: A technique for developing agent-based simulation apps and online tools with nondeterministic decisions
+The Position of Green Logistics in Sustainable Development of a <em>Smart</em> Green <em>City</em>
+<ce:sans-serif>Proactive e-Governance: Flipping the service delivery model from pull to push in</ce:sans-serif> Taiwan
+Enhancing waste management strategies in Latin America under a holistic environmental assessment perspective: A review for policy support
+Modeling the Choice of Tele-work and its Effects on Travel Behaviour in Indian context
+Implications of advanced warning messages on eliminating sun glare disturbances at signalized intersections
+The Rush for Land in an Urbanizing World: From Land Grabbing Toward Developing Safe, Resilient, and Sustainable <em>Cities</em> and Landscapes
+A <em>City</em> Logistics Living Lab: A Methodological Approach
+Radical change and deep transitions: Lessons from Europe’s infrastructure transition 1815–2015
+Determinants of urban mobility in India: Lessons for promoting sustainable and inclusive urban transportation in developing countries
+Korean ubiquitous-eco-<em>city</em>: A <em>smart</em>-sustainable urban form or a branding hoax?
+The futures of the service economy in Europe: A foresight analysis
+Spatio-temporal travel patterns of elderly <em>people</em> – A comparative study based on buses usage in Qingdao, China
+Problematizing resilience: Implications for planning theory and practice
+The development of <em>smart</em> homes market in the UK
+Adaptive non-parametric identification of dense areas using cell phone records for urban analysis
+Mobile cloud-based physical activity advisory system using biofeedback sensors
+Stability & reconstruction operations as mega projects: Drivers of temporary network effectiveness
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_OR_IoT_OR_iomt_OR_health_AND_elder_OR_old_people_OR_older_person_OR_senior_citizen_AND_Smart_City_OR_Smart_Cities_OR_Smart_health_OR_Smart_home.bib saved successfully.
+
+Wait for 8 seconds before executing next page
+
+Page: 100
+https://www.sciencedirect.com/search/api?qs=%28%22Internet%20of%20Things%22%20OR%20%22IoT%22%20OR%20%22iomt%22%20OR%20%22%2Ahealth%2A%22%29%20AND%20%28%22%2Aelder%2A%22%20OR%20%22old%20people%22%20OR%20%22older%20person%22%20OR%20%22senior%20citizen%22%29%20AND%20%28%22Smart%20City%22%20OR%20%22Smart%20Cities%22%20OR%20%22Smart%20health%22%20OR%20%22Smart%20home%2A%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA%2CABS&offset=100
+The politics of noise: Case study of the commercialization of Alaçatı Village, Turkey
+Review of GHG emissions in Pakistan compared to SAARC countries
+Towards open development: Leveraging open data to improve the planning and coordination of international aid
+Dynamic analysis of holiday travel behaviour with integrated multimodal travel information usage: A life-oriented approach
+Factors influencing e-diplomacy implementation: Exploring causal relationships using interpretive structural modelling
+Abstracts
+Download bibtex file OK.
+
+File bibtex/Internet_of_Things_OR_IoT_OR_iomt_OR_health_AND_elder_OR_old_people_OR_older_person_OR_senior_citizen_AND_Smart_City_OR_Smart_Cities_OR_Smart_health_OR_Smart_home.bib saved successfully.
+
+Wait for 8 seconds before executing next page
+
+Page: 200
+https://www.sciencedirect.com/search/api?qs=%28%22Internet%20of%20Things%22%20OR%20%22IoT%22%20OR%20%22iomt%22%20OR%20%22%2Ahealth%2A%22%29%20AND%20%28%22%2Aelder%2A%22%20OR%20%22old%20people%22%20OR%20%22older%20person%22%20OR%20%22senior%20citizen%22%29%20AND%20%28%22Smart%20City%22%20OR%20%22Smart%20Cities%22%20OR%20%22Smart%20health%22%20OR%20%22Smart%20home%2A%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA%2CABS&offset=200
+Download bibtex file OK.
+

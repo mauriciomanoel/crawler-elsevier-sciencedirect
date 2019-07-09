@@ -18,19 +18,21 @@ class Util {
             curl_setopt($ch,CURLOPT_POSTFIELDS, $fields_string);
         }
 
-        $header[0] = "Accept: text/xml,application/xml,application/xhtml+xml,";
-        $header[0] .= "text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5";
-        $header[] = "Cache-Control: max-age=0";
+        if (!empty($parameters["Accept"]) && $parameters["Accept"] == "text") {
+            $header[] = "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3";
+        } else {
+            $header[] = "Accept: */*";
+        }
+        
+        $header[] = "Cache-Control: no-cache";
         $header[] = "Connection: keep-alive";
+        $header[] = "Content-Type: application/json";
+        $header[] = "Host: www.sciencedirect.com";
         $header[] = "Accept-Charset: UTF-8;q=0.7,*;q=0.7";
         $header[] = "Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3";
         $header[] = "Upgrade-Insecure-Requests: 1";
-        $header[] = "Pragma: ";
-        // $header[] = "Cookie: " . $cookie;
-        if (!empty($parameters["host"])) {
-            $header[] = "Host: " . $parameters["host"];
-        }
-
+        $header[] = "accept-encoding: gzip, deflate";
+        
         curl_setopt( $ch, CURLOPT_URL, $url);
         curl_setopt( $ch, CURLOPT_CONNECTTIMEOUT, 0);
         curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true );
