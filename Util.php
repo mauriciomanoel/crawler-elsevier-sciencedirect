@@ -3,7 +3,9 @@
 class Util {
 
     public static function loadURL($url, $cookie, $user_agent, $fields=array(), $parameters=array()) 
-    {        
+    {    
+        
+        $url = "https://www.sciencedirect.com/search/advanced?tak=%28%22Internet%20of%20Things%22%20OR%20%22IoT%22%20OR%20%22Internet%20of%20Medical%20Things%22%20OR%20%22iomt%22%20OR%20%22%2Ahealth%2A%22%20OR%20%22AAL%22%20OR%20%22Ambient%20Assisted%20Living%22%29%20AND%20%28%22%2Aelder%2A%22%20OR%20%22old%20people%22%20OR%20%22older%20person%22%20OR%20%22senior%20citizen%22%20OR%20%22aged%20people%22%29%20AND%20%28%22Smart%20Cities%22%20OR%20%22Smart%20City%22%29&show=100&sortBy=relevance&articleTypes=REV%2CFLA%2CABS&offset=0";
         $ch 		= curl_init($url);
         curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false);  
         curl_setopt( $ch, CURLOPT_HEADER, 0 );
@@ -45,8 +47,17 @@ class Util {
         curl_setopt( $ch, CURLOPT_ENCODING, "gzip, deflate, br");
         curl_setopt( $ch, CURLOPT_USERAGENT, $user_agent);
         $output 	= curl_exec($ch);
+        $err = curl_error($ch);
         curl_close( $ch );
+
+        if ($err) {
+            echo "cURL Error #:" . $err;
+          } else {
+            echo $output;
+          }
+
         return $output;
+
     }
 
     public static function slug($string, $replacement = '_') 
@@ -129,6 +140,11 @@ class Util {
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
         curl_setopt( $ch, CURLOPT_SSL_VERIFYPEER, false); 
         curl_setopt( $ch, CURLOPT_HTTPGET, 1 ); 
+
+        curl_setopt( $ch, CURLOPT_COOKIEJAR, 'cookies.txt' );
+        curl_setopt( $ch, CURLOPT_COOKIEFILE, 'cookies.txt' ); 
+        curl_setopt( $ch, CURLOPT_COOKIESESSION, true ); 
+
         // get headers too with this line
         curl_setopt($ch, CURLOPT_HEADER, 1);
         $result = curl_exec($ch);
