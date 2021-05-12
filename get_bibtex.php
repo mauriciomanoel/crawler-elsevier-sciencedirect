@@ -8,8 +8,9 @@ function getHtml($offset, $query) {
    //$query = '%28"Internet%20of%20Things"%20OR%20"IoT"%20OR%20"Internet%20of%20Medical%20Things"%20OR%20"iomt"%20OR%20"%2Ahealth%2A"%20OR%20"AAL"%20OR%20"Ambient%20Assisted%20Living"%29%20AND%20%28"%2Aelder%2A"%20OR%20"old%20people"%20OR%20"older%20person"%20OR%20"senior%20citizen"%20OR%20"aged%20people"%29%20AND%20%28"Smart%20Cities"%20OR%20"Smart%20City"%29';
     //$query = rawurlencode('("Internet of Things" OR "IoT" OR "Internet of Medical Things" OR "iomt" OR "*health*" OR "AAL" OR "Ambient Assisted Living") AND ("*elder*" OR "old people" OR "older person" OR "senior citizen" OR "aged people") AND ("Smart Cities" OR "Smart City")');
     $query = rawurlencode($query);
+    //var_dump("https://www.sciencedirect.com/search/api?qs=$query&show=100&sortBy=relevance&articleTypes=REV%2CFLA%2CCH&offset=$offset"); exit;
     curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://www.sciencedirect.com/search/advanced?tak=$query&show=100&sortBy=relevance&articleTypes=REV%2CFLA%2CABS&offset=$offset",
+    CURLOPT_URL => "https://www.sciencedirect.com/search/api?qs=$query&show=100&sortBy=relevance&articleTypes=REV%2CFLA&offset=$offset",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
@@ -51,7 +52,7 @@ function getHtml($offset, $query) {
 
     $break_line         = "<br>";
     $query_string       = trim(@$_GET['query']);
-    $file_name          = trim(@$_GET['query']);
+    $file_name          = trim(@$_GET['file']);
     $results            = (int) @$_GET['results'];
     $page               = (int) @$_GET['page'];
     
@@ -60,6 +61,9 @@ function getHtml($offset, $query) {
     try {
         if (empty($query_string)) {
             throw new Exception("Query String not found");
+        }
+        if (empty($file_name)) {
+            throw new Exception("File name not found");
         }         
         if ( ( isset($_GET['page']) && isset($_GET['results']) ) || !isset($_GET['page']) && !isset($_GET['results']) ) {
             throw new Exception("Only one parameter: Page or Results");
@@ -80,12 +84,15 @@ function getHtml($offset, $query) {
             preg_match_all('#<script(.*?)</script>#is', $html, $matches);
             $js = "";
             $value = "";
-            foreach ($matches[0] as $value) {
-                if (strpos($value, "INITIAL_STATE") !== false) {
-                    $jsonFile = strip_tags(str_replace("var INITIAL_STATE = ", "", $value));
-                    break;
-                }
-            }
+
+
+            $jsonFile = $html;
+            // foreach ($matches[0] as $value) {
+            //     if (strpos($value, "INITIAL_STATE") !== false) {
+            //         $jsonFile = strip_tags(str_replace("var INITIAL_STATE = ", "", $value));
+            //         break;
+            //     }
+            // }
 
             ElsevierScienceDirect::progress($jsonFile);
 

@@ -25,7 +25,7 @@ class ElsevierScienceDirect {
         //var_dump($url, $html); exit;
         $bibtex_new = "";
         $jsonValue = json_decode($value, true);
-        $articles = $jsonValue["search"]["searchResults"];
+        $articles = $jsonValue["searchResults"];
         //echo "<pre>"; var_dump($articles); exit;
         foreach($articles as $key => $article) {
             $data     = self::getDataArticle($article);
